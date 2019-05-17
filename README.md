@@ -5,9 +5,13 @@
 
 
 
-## About
+## Group Members
 
-This Repository gives the information about me and my interests. This repo is used for creating new projects.
+- Chatur Veda Vyas Kurma
+- Harsha Vardhan Reddy Nallavolu
+- Sai Kiran Doddapaneni
+- Venkatasandeep KatrevulaVenkatasandeep Katrevula
+
  
 ## Recommended Tools
 
