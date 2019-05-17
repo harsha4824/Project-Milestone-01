@@ -1,11 +1,9 @@
 # Project-Milestone-01
 
-# aboutme
 
-## Repository Links
+## Group-05
 
-- source repository: [https://github.com/chaturkurma/About-Me](https://github.com/chaturkurma/About-Me)
-- hosted page: [https://chaturkurma.github.io/About-Me/](https://chaturkurma.github.io/About-Me/)
+
 
 ## About
 
