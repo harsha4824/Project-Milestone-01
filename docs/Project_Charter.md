@@ -218,7 +218,7 @@ Date: 05/17/2019
 <td>Project Manager/Content Developer</td>
 <td>Internal</td>
 <td>Project Manager/Content Developer</td>
-<td>+1 6605280106</td>
+<td>S534965@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Sai Kiran Doddapaneni</td>
