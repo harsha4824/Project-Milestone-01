@@ -94,11 +94,15 @@ As we all are the active team participants, hoping that everyone diligently work
 - Ensure design consistency with the client’s development standards and guidelines
 
 ## Signatures:
+- VenkataSandeep Katrevula
+--------------------------------------
 
- VenkataSandeep Katrevula
- <hr>
- Sai kiran Doddapaneni
-<hr>
- Chatur Veda Vyas Kurma
-<hr>
- Harsha Vardhan Reddy Nallavolu
+- Sai kiran Doddapaneni
+--------------------------------------
+
+- Chatur Veda Vyas Kurma
+--------------------------------------
+
+- Harsha Vardhan Reddy Nallavolu
+--------------------------------------
+
