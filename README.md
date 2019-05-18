@@ -94,19 +94,15 @@ As we all are the active team participants, hoping that everyone diligently work
 - Ensure design consistency with the client’s development standards and guidelines
 
 ## Signatures:
-- VenkataSandeep Katrevula
+ VenkataSandeep Katrevula
 --------------------------------------
-Type your first and last name in the space above. 
 
-- Sai kiran Doddapaneni
+ Sai kiran Doddapaneni
 --------------------------------------
-Type your first and last name in the space above. 
 
-- Chatur Veda Vyas Kurma
+ Chatur Veda Vyas Kurma
 --------------------------------------
-Type your first and last name in the space above. 
 
-- Harsha Vardhan Reddy Nallavolu
+ Harsha Vardhan Reddy Nallavolu
 --------------------------------------
-Type your first and last name in the space above. 
 
