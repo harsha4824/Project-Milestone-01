@@ -19,30 +19,128 @@
 <table class="table table-dark">
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 11px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 11px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-uys7{border-color:inherit;text-align:center}
+.tg .tg-xldj{border-color:inherit;text-align:left}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky"><span style="font-weight:700">Course Name</span></th>
-    <th class="tg-0pky"><span style="font-weight:700">Course Number</span></th>
-    <th class="tg-0pky"><span style="font-weight:bold">Instructor</span></th>
+    <th class="tg-uys7">Knowledge Areas<br></th>
+    <th class="tg-uys7"> Artifacts<br></th>
+    <th class="tg-uys7">Member Responsible<br></th>
   </tr>
   <tr>
-    <td class="tg-0pky">WebApps</td>
-    <td class="tg-0pky">44563</td>
-    <td class="tg-0pky">Case</td>
+    <td class="tg-xldj" rowspan="2">1.Project Integration Management</td>
+    <td class="tg-xldj">Project Charter</td>
+    <td class="tg-xldj">VenkataSandeep Katrevula</td>
   </tr>
   <tr>
-    <td class="tg-0pky">JAVA</td>
-    <td class="tg-0pky">44542</td>
-    <td class="tg-0pky">Ajay</td>
+    <td class="tg-xldj">Project Management Plan</td>
+    <td class="tg-xldj">Sai Kiran Doddapaneni<br></td>
   </tr>
   <tr>
-    <td class="tg-0pky">DataBase Systems</td>
-    <td class="tg-0pky">44460</td>
-    <td class="tg-0pky">Badami</td>
+    <td class="tg-xldj" rowspan="5">2. Project Scope Management</td>
+    <td class="tg-xldj">Requirement Management Plan</td>
+    <td class="tg-xldj">Chatur Veda Vyas Kurma</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">Requirements specifications document</td>
+    <td class="tg-xldj">Harsha Vardhan Reddy Nallavolu</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">Scope Management Plan</td>
+    <td class="tg-xldj">VenkataSandeep Katrevula</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">Scope Statement</td>
+    <td class="tg-xldj">VenkataSandeep Katrevula</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">Work Breakdown Structure</td>
+    <td class="tg-xldj">VenkataSandeep Katrevula</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">3. Project Time Management<br></td>
+    <td class="tg-xldj">Schedule management plan<br>i) Gantt charts<br></td>
+    <td class="tg-xldj">Sai Kiran Doddapaneni</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">4. Project Cost Management</td>
+    <td class="tg-xldj">Cost Management Plan<br>i) Cost Estimation and Determine budget</td>
+    <td class="tg-xldj">Sai Kiran Doddapaneni</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">5. Project Quality Management</td>
+    <td class="tg-xldj">Quality management plan<br>i) Items included for Quality control</td>
+    <td class="tg-xldj">Harsha Vardhan Reddy Nallavolu</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj"></td>
+    <td class="tg-xldj">ii) Benchmarking against <br>other products or projects</td>
+    <td class="tg-xldj">Sai Kiran Doddapaneni</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj"></td>
+    <td class="tg-xldj">iii) Measurement regarding types of defects</td>
+    <td class="tg-xldj">Chatur Veda Vyas Kurma</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">6. Project Human Resources Management</td>
+    <td class="tg-xldj">Human resources management plan<br>i) Project organizational charts</td>
+    <td class="tg-xldj">VenkataSandeep Katrevula</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj"></td>
+    <td class="tg-xldj">ii) Responsibility assignment matrices</td>
+    <td class="tg-xldj">Chatur Veda Vyas Kurma</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj"></td>
+    <td class="tg-xldj">iii) Resource histograms</td>
+    <td class="tg-xldj">Sai Kiran Doddapaneni</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">7. Project Communications Management</td>
+    <td class="tg-xldj">Communication management plan<br>i) Stakeholder Communication analysis</td>
+    <td class="tg-xldj">Venakatsandeep Katrevula<br>Harsha Vardhan Reddy Nallavolu</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj" rowspan="2">8. Project Risk Management</td>
+    <td class="tg-xldj">Risk management plan<br>i) Risk register</td>
+    <td class="tg-xldj">Sai Kiran Doddapaneni</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">ii) Risk mitigation strategies</td>
+    <td class="tg-xldj">Harsha Vardhan Reddy Nallavolu</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj" rowspan="2">9. Project Procurement Management</td>
+    <td class="tg-xldj">Procurement management plan<br>i) Statement of Work</td>
+    <td class="tg-xldj">Harsha Vardhan Reddy Nallavolu</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">ii) Request for proposal</td>
+    <td class="tg-xldj">Venakatsandeep Katrevula</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">10. Project Stakeholder Management</td>
+    <td class="tg-xldj">Stakeholder management plan<br>i) Stakeholder register</td>
+    <td class="tg-xldj">Sai Kiran Doddapaneni</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj"></td>
+    <td class="tg-xldj">ii) Stakeholder analysis</td>
+    <td class="tg-xldj">Chatur Veda Vyas Kurma</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj"></td>
+    <td class="tg-xldj">iii) Issue log</td>
+    <td class="tg-xldj">Harsha Vardhan Reddy Nallavolu</td>
+  </tr>
+  <tr>
+    <td class="tg-uys7" colspan="2">Final Presentation</td>
+    <td class="tg-xldj">Venkatsandeep  Katrevula<br>Sai Kiran Doddapaneni<br>Chatur Veda Vyas Kurma<br>Harsha Vardhan Reddy Nallavolu</td>
   </tr>
 </table>
 
