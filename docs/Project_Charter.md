@@ -2,10 +2,10 @@
 <h4>Project Title: A Guide to Project Management</h4>
 <h4> Project Start Date:05/16/2019                 Projected Finish Date:</h4>
 <h4> Budget Information: Self Funded</h4>
-<h4> Project Manager: <br>
-                    Name:VenkataSandeep Katrevula  <br>
+<h4> Project Manager: </h4> <br>
+<p>                    Name:VenkataSandeep Katrevula  <br>
                     Phone: +1-6605280106 <br>
-                    E-mail:S534965@nwmissouri.edu</h4>
+                    E-mail:S534965@nwmissouri.edu  </p>
 <h4> Project Objectives:</h4>
 
 - To learn to use the IT project management skills and work in team
