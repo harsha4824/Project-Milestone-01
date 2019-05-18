@@ -10,8 +10,8 @@
  <table class="table table-dark">
                          
 <tr> 
-<th>Role</th>
 <th>Name</th>
+<th>Role</th>
 <th>Organization/Position</th>
 <th>Contact Information</th>
 </tr>
