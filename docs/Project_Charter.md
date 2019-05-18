@@ -5,7 +5,9 @@
 <h4> Project Manager: Name:VenkataSandeep Katrevula, phone:+1 6605280106  , e-mail:s534965@nwmissouri.edu</h4>
 <h4> Project Objectives: To  provide a resource which would help understand Project Management</h4>
 - To learn to use the IT project management skills and work in team
+
 - To learn the real-world scenario of the projects and to create all the artifacts associated with projects
+
 - To Implement all the knowledge areas, Form the initiation to the end of the project which includes planning and other related factors
 <h4> Main Project Success Criteria:</h4>
 <p> Creating an interactive website to assist Northwest Missouri State University students, whom all are enrolled to course 44-618 Project Management in Business and Technology. This interactive website advocate students to learn all the 5 process groups (initiating, planning, executing, monitoring & controlling, and control) and all 10 Knowledge areas.  In addition, every student can sign up and able to write the quizzes. The performances of the students get recorded, and students are able to access their history and check their performances.</p>
