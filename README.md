@@ -16,7 +16,8 @@ This project is about an interactive website to assist Northwest Missouri State 
 ## Client: Dr. Denise M Case
 
 ## Team logo:
- ![Logo](https://github.com/chaturkurma/Project-Milestone-01/blob/master/logo.png?raw=true) 
+<img src="https://github.com/chaturkurma/Project-Milestone-01/blob/master/logo.png">
+ <!-- ![Logo](https://github.com/chaturkurma/Project-Milestone-01/blob/master/logo.png)  -->
 
 
 ## Working as a team together:
