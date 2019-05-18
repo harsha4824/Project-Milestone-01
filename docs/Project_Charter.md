@@ -15,6 +15,7 @@
 <h4> Main Project Success Criteria:</h4>
 <p> Creating an interactive website to assist Northwest Missouri State University students, whom all are enrolled to course 44-618 Project Management in Business and Technology. This interactive website advocate students to learn all the 5 process groups (initiating, planning, executing, monitoring & controlling, and control) and all 10 Knowledge areas.  In addition, every student can sign up and able to write the quizzes. The performances of the students get recorded, and students are able to access their history and check their performances.</p>
 <h4> Approach:</h4>
+<p> Following table show our team approaches and handles the different Knowledge areas while working on the project. We will be using Microsoft or Libre project management tool to work on the project.</p>
 <h4> Roles and Responsibilities</h4>
  <table class="table table-dark">
                          
