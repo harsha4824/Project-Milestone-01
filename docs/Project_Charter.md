@@ -4,6 +4,7 @@
 <h4> Budget Information: Self Funded</h4>
 <h4> Project Manager: Name:VenkataSandeep Katrevula, phone:+1 6605280106  , e-mail:s534965@nwmissouri.edu</h4>
 <h4> Project Objectives: To  provide a resource which would help understand Project Management</h4>
+
 - To learn to use the IT project management skills and work in team
 
 - To learn the real-world scenario of the projects and to create all the artifacts associated with projects
