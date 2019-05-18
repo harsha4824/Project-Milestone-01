@@ -147,25 +147,25 @@
 <td>VenkataSandeep Katrevula</td>
 <td>Project Manager/Content Developer</td>
 <td>Project Manager/Content Developer</td>
-<td>+1 6605280106</td>
+<td>S534965@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Sai Kiran Doddapaneni</td>
 <td>Team Lead/ Web Developer</td>
 <td>Team Lead/ Web Developer</td>
-<td>+1 9842393104</td>
+<td>S534736@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Chatur Veda Vyas Kurma</td>
 <td>Web Developer/UI</td>
 <td>Web Developer/UI</td>
-<td>+1 6364979545</td>
+<td>S534687@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Harsha Vardhan Reddy Nallavolu</td>
 <td>UI/Content Developer</td>
 <td>UI/Content Developer</td>
-<td></td>
+<td>S534688@nwmissouri.edu</td>
 </tr>
 </table>
 
@@ -189,6 +189,16 @@ Prepared by:Chatur Veda Vyas Kurma         Date:
 <th>Project Role</th>
 <th>Contact Information</th>
 </tr>
+
+<tr>
+<td>Denise M Case</td>
+<td>Client</td>
+<td>External</td>
+<td>Client</td>
+<td>dcase@nwmissouri.edu</td>
+</tr>
+
+
 <tr>
 <td>VenkataSandeep Katrevula</td>
 <td>Project Manager/Content Developer</td>
@@ -222,6 +232,6 @@ Prepared by:Chatur Veda Vyas Kurma         Date:
 <td>User</td>
 <td>External</td>
 <td>User</td>
-<td>1234567890</td>
+<td></td>
 </tr>
 </table>
