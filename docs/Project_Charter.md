@@ -190,7 +190,8 @@
 # Stakeholder Register for Project Name
 
 
-Prepared by:Chatur Veda Vyas Kurma         Date:
+Prepared by:Chatur Veda Vyas Kurma      
+Date: 05/17/2019
  <table class="table table-dark">
                                       
                           
