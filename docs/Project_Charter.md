@@ -19,7 +19,7 @@
 <p> Following table show our team approaches and handles the different Knowledge areas while working on the project. We will be using Microsoft or Libre project management tool to work on the project.</p>
 <table class="table table-dark">
 
-<table class="tg">
+<<table class="tg">
   <tr>
     <th class="tg-uys7">Knowledge Areas<br></th>
     <th class="tg-uys7"> Artifacts<br></th>
@@ -119,17 +119,15 @@
     <td class="tg-xldj">Venakatsandeep Katrevula</td>
   </tr>
   <tr>
-    <td class="tg-xldj">10. Project Stakeholder Management</td>
+    <td class="tg-xldj" rowspan="3">10. Project Stakeholder Management</td>
     <td class="tg-xldj">Stakeholder management plan<br>i) Stakeholder register</td>
     <td class="tg-xldj">Sai Kiran Doddapaneni</td>
   </tr>
   <tr>
-    <td class="tg-xldj"></td>
     <td class="tg-xldj">ii) Stakeholder analysis</td>
     <td class="tg-xldj">Chatur Veda Vyas Kurma</td>
   </tr>
   <tr>
-    <td class="tg-xldj"></td>
     <td class="tg-xldj">iii) Issue log</td>
     <td class="tg-xldj">Harsha Vardhan Reddy Nallavolu</td>
   </tr>
