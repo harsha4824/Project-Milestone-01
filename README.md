@@ -64,45 +64,48 @@ As we all are the active team participants, hoping that everyone diligently work
 </table>
 
 ## Project Manager:  Venkasandeep Katrevula
-. Accountability to the project
-. Ability to maintain client expectations
-. Motivating team
-. Monitoring schedule and tracking project progress
-. Risk management
-. Assigning tasks to individuals
-. Updating Client regarding the project status
+- Accountability to the project
+- Ability to maintain client expectations
+- Motivating team
+- Monitoring schedule and tracking project progress
+- Risk management
+- Assigning tasks to individuals
+- Updating Client regarding the project status
 ## Team Lead: Sai kiran Doddapaneni 
-. Communicating with team
-. Assigning work to the team members
-. Guidance and instructions to the individual team members
-. Motivating team
-. Providing training in required areas
+- Communicating with team
+- Assigning work to the team members
+- Guidance and instructions to the individual team members
+- Motivating team
+- Providing training in required areas
 ## Content Writer: Harsha Vardhan Reddy Nallavolu
-. Gather and organize the required content to meet the client requirement
-. Before Publishing editing and proofreading
-. Will be using search engine optimizing techniques
+- Gather and organize the required content to meet the client requirement
+- Before Publishing editing and proofreading
+- Will be using search engine optimizing techniques
 ## Web Application Developer: Chatur Veda Vyas Kurma
-. Website and software application designing, building, or maintaining
-. Using scripting or other languages, management tools, content creation tools, application and digital media
-. Editing, writing, or designing website content, and directing team members who product content
-. Determining user needs by analyzing technical requirements
+- Website and software application designing, building, or maintaining
+- Using scripting or other languages, management tools, content creation tools, application and digital media
+- Editing, writing, or designing website content, and directing team members who product content
+- Determining user needs by analyzing technical requirements
 ## User interface developer:
-. Create a web application front end as per design comps and information architecture.
-. Integrate application front end with application content
-. Follow best practices and standards for accessibility and cross-browser compatibility
-. Ensure design consistency with the client’s development standards and guidelines
+- Create a web application front end as per design comps and information architecture.
+- Integrate application front end with application content
+- Follow best practices and standards for accessibility and cross-browser compatibility
+- Ensure design consistency with the client’s development standards and guidelines
 
 ## Signatures:
-. VenkataSandeep Katrevula
+- VenkataSandeep Katrevula
 --------------------------------------
 Type your first and last name in the space above. 
-. Sai kiran Doddapaneni
+
+- Sai kiran Doddapaneni
 --------------------------------------
 Type your first and last name in the space above. 
-. Chatur Veda Vyas Kurma
+
+- Chatur Veda Vyas Kurma
 --------------------------------------
 Type your first and last name in the space above. 
-. Harsha Vardhan Reddy Nallavolu
+
+- Harsha Vardhan Reddy Nallavolu
 --------------------------------------
 Type your first and last name in the space above. 
 
