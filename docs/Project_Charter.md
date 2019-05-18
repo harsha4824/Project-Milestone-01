@@ -66,32 +66,28 @@
     <td class="tg-xldj">Sai Kiran Doddapaneni</td>
   </tr>
   <tr>
-    <td class="tg-xldj">5. Project Quality Management</td>
+    <td class="tg-xldj" rowspan="3">5. Project Quality Management</td>
     <td class="tg-xldj">Quality management plan<br>i) Items included for Quality control</td>
     <td class="tg-xldj">Harsha Vardhan Reddy Nallavolu</td>
   </tr>
   <tr>
-    <td class="tg-xldj"></td>
     <td class="tg-xldj">ii) Benchmarking against <br>other products or projects</td>
     <td class="tg-xldj">Sai Kiran Doddapaneni</td>
   </tr>
   <tr>
-    <td class="tg-xldj"></td>
     <td class="tg-xldj">iii) Measurement regarding types of defects</td>
     <td class="tg-xldj">Chatur Veda Vyas Kurma</td>
   </tr>
   <tr>
-    <td class="tg-xldj">6. Project Human Resources Management</td>
+    <td class="tg-xldj" rowspan="3">6. Project Human Resources Management</td>
     <td class="tg-xldj">Human resources management plan<br>i) Project organizational charts</td>
     <td class="tg-xldj">VenkataSandeep Katrevula</td>
   </tr>
   <tr>
-    <td class="tg-xldj"></td>
     <td class="tg-xldj">ii) Responsibility assignment matrices</td>
     <td class="tg-xldj">Chatur Veda Vyas Kurma</td>
   </tr>
   <tr>
-    <td class="tg-xldj"></td>
     <td class="tg-xldj">iii) Resource histograms</td>
     <td class="tg-xldj">Sai Kiran Doddapaneni</td>
   </tr>
