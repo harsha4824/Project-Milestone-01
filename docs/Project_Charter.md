@@ -3,7 +3,7 @@
 <h4> Project Start Date:05/16/2019                 Projected Finish Date:</h4>
 <h4> Budget Information: Self Funded</h4>
 <h4> Project Manager: Name:VenkataSandeep Katrevula, phone:+1 6605280106  , e-mail:s534965@nwmissouri.edu</h4>
-<h4> Project Objectives: To  provide a resource which would help understand Project MAnagement</h4>
+<h4> Project Objectives: To  provide a resource which would help understand Project Management</h4>
 <h4> Main Project Success Criteria:</h4>
 <h4> Approach:</h4>
 <h4> Roles and Responsibilities</h4>
