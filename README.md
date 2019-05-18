@@ -1,6 +1,6 @@
-<h2> 44-618-Project Management in Business and Technology</h2>
-<h3> Section 01 - Group 05: Milestone 01</h3>
-<h4> Project title: A Guide to Project Management</h4>
+<h2 style="text-align:center"> 44-618-Project Management in Business and Technology</h2>
+<h3 style="text-align:center"> Section 01 - Group 05: Milestone 01</h3>
+<h4 style="text-align:center"> Project title: A Guide to Project Management</h4>
 
 ## Description:
 This project is about an interactive website to assist Northwest Missouri State University students who all are taking 44-618 Project Management in Business and Technology. This Interactive website help students to learn all the 5 process groups (initiating, planning, executing, monitoring & controlling, and control) and all 10 Knowledge Areas. 
@@ -8,10 +8,10 @@ This project is about an interactive website to assist Northwest Missouri State 
 ## Team name:  Envision 
 
 ## Team member names:
-. VenkataSandeep Katrevula
-. Sai Kiran Doddapaneni
-. Chatur Veda Vyas Kurma
-. Harsha Vardhan Reddy Nallavolu
+1. VenkataSandeep Katrevula
+1. Sai Kiran Doddapaneni
+1. Chatur Veda Vyas Kurma
+1. Harsha Vardhan Reddy Nallavolu
 
 ## Client: Dr. Denise M Case
 
