@@ -1,12 +1,12 @@
-# Project Charter
-## Project Title: A Guide to Project Management
-## Project Start Date:05/16/2019                 Projected Finish Date:
-## Budget Information: Self Funded
-## Project Manager: Name:VenkataSandeep Katrevula, phone:+1 6605280106  , e-mail:s534965@nwmissouri.edu
-## Project Objectives: To  provide a resource which would help understand Project MAnagement
-## Main Project Success Criteria:
-## Approach:
-## Roles and Responsibilities
+<h2>Project Charter</h2>
+<h4>Project Title: A Guide to Project Management</h4>
+<h4> Project Start Date:05/16/2019                 Projected Finish Date:</h4>
+<h4> Budget Information: Self Funded</h4>
+<h4> Project Manager: Name:VenkataSandeep Katrevula, phone:+1 6605280106  , e-mail:s534965@nwmissouri.edu</h4>
+<h4> Project Objectives: To  provide a resource which would help understand Project MAnagement</h4>
+<h4> Main Project Success Criteria:</h4>
+<h4> Approach:</h4>
+<h4> Roles and Responsibilities</h4>
  <table class="table table-dark">
                          
 <tr> 

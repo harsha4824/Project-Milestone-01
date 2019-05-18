@@ -1,6 +1,6 @@
-# 44-618-Project Management in Business and Technology
-# Section 01 - Group 05: Milestone 01
-# Project title: A Guide to Project Management
+<h2> 44-618-Project Management in Business and Technology</h2>
+<h3> Section 01 - Group 05: Milestone 01</h3>
+<h4> Project title: A Guide to Project Management</h4>
 
 ## Description:
 This project is about an interactive website to assist Northwest Missouri State University students who all are taking 44-618 Project Management in Business and Technology. This Interactive website help students to learn all the 5 process groups (initiating, planning, executing, monitoring & controlling, and control) and all 10 Knowledge Areas. 
