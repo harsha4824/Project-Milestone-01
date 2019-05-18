@@ -17,7 +17,6 @@ This project is about an interactive website to assist Northwest Missouri State 
 
 ## Team logo:
 <img src="https://github.com/chaturkurma/Project-Milestone-01/blob/master/logo.png">
- <!-- ![Logo](https://github.com/chaturkurma/Project-Milestone-01/blob/master/logo.png)  -->
 
 
 ## Working as a team together:
