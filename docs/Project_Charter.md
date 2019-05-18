@@ -1,7 +1,7 @@
 <h2>Project Charter</h2>
 <h4>Project Title: A Guide to Project Management</h4>
-<h4> Project Start Date:05/16/2019               </h4>
-  <h4>Projected Finish Date:06/06/2019</h4>
+<h4> Project Start Date: 05/16/2019               </h4>
+  <h4>Projected Finish Date: 06/06/2019</h4>
 <h4> Budget Information: Self Funded</h4>
 <h4> Project Manager: </h4> <br>
 <p>                 Name:VenkataSandeep Katrevula  <br>
@@ -18,13 +18,7 @@
 <h4> Approach:</h4>
 <p> Following table show our team approaches and handles the different Knowledge areas while working on the project. We will be using Microsoft or Libre project management tool to work on the project.</p>
 <table class="table table-dark">
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 11px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 11px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-uys7{border-color:inherit;text-align:center}
-.tg .tg-xldj{border-color:inherit;text-align:left}
-</style>
+
 <table class="tg">
   <tr>
     <th class="tg-uys7">Knowledge Areas<br></th>
