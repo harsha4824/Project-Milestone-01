@@ -49,7 +49,7 @@
 # Stakeholder Register for Project Name
 
 
-##Prepared by:Chatur Veda Vyas Kurma         Date:
+Prepared by:Chatur Veda Vyas Kurma         Date:
  <table class="table table-dark">
                                       
                           
