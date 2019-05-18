@@ -211,21 +211,21 @@ Prepared by:Chatur Veda Vyas Kurma         Date:
 <td>Team Lead/ Web Developer</td>
 <td>Internal</td>
 <td>Team Lead/ Web Developer</td>
-<td>+1 9842393104</td>
+<td>S534736@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Chatur Veda Vyas Kurma</td>
 <td>Web Developer/UI</td>
 <td>Internal</td>
 <td>Web Developer/UI</td>
-<td>+1 6364979545</td>
+<td>S534687@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Harsha Vardhan Reddy Nallavolu</td>
 <td>UI/Content Developer</td>
 <td>Internal</td>
 <td>UI/Content Developer</td>
-<td>1234567890</td>
+<td>S534688@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>NWMS Graduate Student</td>
