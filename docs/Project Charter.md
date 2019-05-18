@@ -51,3 +51,61 @@
 ## Sign-off:
 
 ## Comments:
+
+
+# Stakeholder Register
+
+##Prepared by:Chatur Veda Vyas Kurma         Date:
+ <table class="table table-dark">
+                                      
+                          
+<tr> 
+<th>Name</th>
+<th>Position</th>
+<th>Internal/External</th>
+<th>Project Role</th>
+<th>Contact Information</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
