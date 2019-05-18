@@ -17,13 +17,34 @@
 <h4> Approach:</h4>
 <p> Following table show our team approaches and handles the different Knowledge areas while working on the project. We will be using Microsoft or Libre project management tool to work on the project.</p>
 <table class="table table-dark">
-<tr> 
-<th>Knowledge Areas</th>
-<th>Artifacts</th>
-<th>Member Responsible</th>
-
-</tr>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:700">Course Name</span></th>
+    <th class="tg-0pky"><span style="font-weight:700">Course Number</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Instructor</span></th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">WebApps</td>
+    <td class="tg-0pky">44563</td>
+    <td class="tg-0pky">Case</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">JAVA</td>
+    <td class="tg-0pky">44542</td>
+    <td class="tg-0pky">Ajay</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">DataBase Systems</td>
+    <td class="tg-0pky">44460</td>
+    <td class="tg-0pky">Badami</td>
+  </tr>
+</table>
 
 
 <h4> Roles and Responsibilities</h4>
