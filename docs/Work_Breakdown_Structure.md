@@ -1,6 +1,32 @@
 # **Work Breakdown Structure**
 ```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
+A GUIDE TO PROJECT MANAGEMENT
+|
+|________ INITIATING
+|                  |
+|                  |________
+|                  |
+|                  |
+|                  |________
+|                  |
+|                  | 
+|                  |________
+|                  |
+|                  |________
+|
+|
+|________ PLANING
+|
+|
+|
+|________ EXECUTING
+|
+|
+|
+|________ MONITORING AND CONTROL
+|
+|
+|
+|________ CLOSING
+
 ```
