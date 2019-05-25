@@ -8,7 +8,7 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) **Schedule Management Plan**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Gantt Chart**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Scheduling Sprints**
-# 5. **Project Scope Management**
+# 5. **Project Cost Management**
 
 
 
