@@ -4,7 +4,7 @@
 | What are you trying to validate with this MVP? | Who are the users who benefit from this product? Who are you going to test it with? |
 | yfiuhiooooooooooooooooooooooooooooooooooooo| uoiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiio|
 
-| &emsp;&emsp;&emsp; **HYPOTHESIS / ASSUMPTION** &emsp;&emsp;&emsp;  | &emsp;&emsp;&emsp;  **WE ARE RIGHT IF...** &emsp;&emsp;&emsp; |
+| &emsp;&emsp;&emsp; **HYPOTHESIS / ASSUMPTION** &emsp;&emsp; | &emsp;&emsp;&emsp;  **WE ARE RIGHT IF...** &emsp;&emsp;&emsp; |
 |----------------------------------------------------------------------|---------------------------------------------------------|
 | What do you believe to be true? What do you need to measure to validate your hypothesis?  | What do you expect to discover from your test? What would make this a successful MVP?  |
 | fukfyulyglgyggygyigygyuguy                                         | ygouygiogyugoi                                  |
