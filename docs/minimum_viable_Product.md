@@ -13,5 +13,5 @@
 | &emsp;&emsp;&emsp; **HUMAN ELEMENTS** &emsp;&emsp;&emsp;  | &emsp;&emsp;&emsp;  **BUSSINESS ELEMENTS** &emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;  **TECHNOLOGY ELEMENTS** &emsp;&emsp;&emsp; |
 | ------------------------------------- | ---------------------------------------------------------------------------|---------------------|
 | List elements of the customer experience that you want to test  | List elements of the business viability and market-solution fit that you want to test | Describe the form or tools used to build this MVP |
-| dutryutufyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy |  yiddufyiguoiiiiiiiigggggggggggiuuuuuuuuuuuui | yfctucitttttttttttHFJKYHJUYUKFGKYJFKUYFKUJFUJFKJYVGJCFDTRDYTCUKYFIFYUIYGUYGUOYCYCYCIDYTCHCGYYUCUCYUCYTCUCVUCYXYCUTCTYCTYCYCUCUTYHCGYCYCYUCVUYCYCTUYUYCYCYUCTYUTVUYCGCUFVUJGCUYVUGYTFUYFUYGVGUCYFUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUTITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTtttttttttci |
+| dutryutufyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy |  yiddufyiguoiiiiiiiigggggggggggiuuuuuuuuuuuui |yfctucitttttttttttHFJKYHJUYUKFGKYJFKUYFKUJFUJFKJYVGJCFDTRDYTCUKYFIFYUIY|
 
