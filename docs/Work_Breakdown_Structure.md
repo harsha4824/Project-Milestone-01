@@ -6,12 +6,12 @@
 ### **Prepared By:**
 
 ## **Project Closure Report Version Control**
-| Version | Date | Author | Change Control |
+| Version | Date | Author | Change Description |
 |---------|------|---------|---------------|
-|          |      |         |  created document             |
-|         |        |         |               |
-|         |       |          |               |
-|         |        |          |              |
+|          |      |         |  created document |
+|         |        |         |   change 2            |
+|         |       |          |   change 3            |
+|         |        |          |  change 4            |
 
 
 
