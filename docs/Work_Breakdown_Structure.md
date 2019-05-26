@@ -1,4 +1,21 @@
 # **Work Breakdown Structure**
+<br>
+## **Project Name:** 
+## **Focus Area:**
+## **Product:**
+<br>
+<br>
+<br>
+# **Project Closure Report Version Control**
+| Version | Date | Author | Change Control |
+|---------|------|---------|---------------|
+|          |      |         |               |
+|         |        |         |               |
+|         |       |          |               |
+|         |        |          |              |
+
+
+
 ```sequence
 A GUIDE TO PROJECT MANAGEMENT
 |
