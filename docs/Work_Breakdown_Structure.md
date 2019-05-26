@@ -1,9 +1,9 @@
 # **Work Breakdown Structure**
 
-## **Project Name:** 
-## **Focus Area:**
-## **Product:**
-## **Prepared By:**
+### **Project Name:** 
+### **Focus Area:**
+### **Product:**
+### **Prepared By:**
 
 ## **Project Closure Report Version Control**
 | Version | Date | Author | Change Control |
