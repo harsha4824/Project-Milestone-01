@@ -1,4 +1,4 @@
-# ** Work Breakdown Structure **
+# **Work Breakdown Structure**
 
 ## ** Project Name: ** 
 ## ** Focus Area: **
