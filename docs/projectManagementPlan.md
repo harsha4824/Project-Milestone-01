@@ -25,7 +25,7 @@ The Structure of the project is a hierarchy shown in link below:
 - [Project Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/ProjectStructure.md)
 <br>  Chart in the above link to depicts the lines of authority,responsibility and communication within the project.
 ### 1.2.1 **External Interfaces**
-Users/Stdents are the external who are going to use the Product.
+Users/Students are the external who are going to use the Product.
 ### 1.2.2 **Internal Structure**
 This project requires project manager, web developer, content, UI developer and database analyst. All the staff working for the must be skilled and trained. 
 
