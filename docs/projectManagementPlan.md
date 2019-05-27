@@ -194,7 +194,7 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Gantt Chart**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Scheduling Sprints**
 # 5. **Project Cost Management**
-<h4>
-- To create the Plan Cost Management, necessary inputs are required such as Project Management Plan, Project Charter, Enterprise Environmental factors and Organizational Process.  
-- The main advantage of this process is that it gives guidance as well as direction on how the project costs should be managed all throughout the implementation of the project.
-</h4>
+
+-  To create the Plan Cost Management, necessary inputs are required such as Project Management Plan, Project Charter, Enterprise Environmental factors and Organizational Process.  
+-  The main advantage of this process is that it gives guidance as well as direction on how the project costs should be managed all throughout the implementation of the project.
+
