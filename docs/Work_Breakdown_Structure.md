@@ -32,9 +32,8 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Resource Availability
 |               |________ Developing Scope Statement
 |               |________ Hardware ___________________________________
-|               |________ Creating Scope Statement                    |________ Laptops
-|               |________ Kick-off Meetings                           |________ Database Server
-|               |________ Developing Project Plan                     
+|               |________ Creating Scope Statement                    |________ Laptops                          
+|               |________ Developing Project Plan                     |________ Database Server       
 |               |________ Submitting Project Plan to Sponsor
 |               |________ Approval from Sponsor
 |               |________ Software ___________________________________
