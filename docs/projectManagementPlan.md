@@ -282,7 +282,6 @@ We have referred many documents of the successful projects
 <h4>Control thresholds:</h4> 
 
 
-
  -  Change requests during programming might increase the project budget than estimated cost. 
  -  Fixing the bugs during the development could cost more than the estimated cost. 
  -  10 percent of Variance allowed. 
