@@ -273,6 +273,11 @@ We have referred many documents of the successful projects
 -  Selecting of cost reporting formats plays an important role to display reports.
 -  It is better to use good reporting formats to display cost information effectively. 
 
+<h4>Control thresholds:</h4> 
+ -  Change requests during programming might increase the project budget than estimated cost. 
+ -  Fixing the bugs during the development could cost more than the estimated cost. 
+ -  10 percent of Variance allowed. 
+
 
 
 
