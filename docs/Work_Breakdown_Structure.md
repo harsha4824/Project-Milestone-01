@@ -49,6 +49,8 @@ A GUIDE TO PROJECT MANAGEMENT
 |                 |________ Creating Login Page
 |                 |________ Generating User Id and Password
 |                 |________ Testing and Analysing Login Page
+|                 |________ Save Login page Directory
+|                 |________ New user registration Page 
 |
 |________ MONITORING AND CONTROL
 |
