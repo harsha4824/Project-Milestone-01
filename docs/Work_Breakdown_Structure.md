@@ -19,15 +19,12 @@
 A GUIDE TO PROJECT MANAGEMENT
 |
 |________ INITIATING
-<<<<<<< HEAD
-|                  |         -------------------------------
-|                  |________ |Appointing the Project Manager|
-|                  |         -------------------------------
-=======
-|                  |
+|                  |         
 |                  |________ Appointing the Project Manager
 |                  |
->>>>>>> 235f51e13a826679746d67e061fba98008bd612e
+|                  |
+|                  |________ Selecting the Stake Holders
+|                  |
 |                  |
 |                  |________
 |                  |
