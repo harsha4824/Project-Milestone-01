@@ -30,6 +30,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |                  |________ Approving the project
 |________ PLANING
 |               |________ Need of Resources
+|               |________ Developing Scope Statement
 |               |________ Hardware ___________________________________
 |               |________ Creating Scope Statement                    |________ Laptops
 |               |________ Kick-off Meetings                           |________ Database Server
@@ -40,10 +41,11 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Cost Analysis                               |________ Software Licensed Version
 |               |________ Risk Assessment                             |________ Online Server
 |               |________ Technology                                  |________ Software Application
-|                                                                     |________ Github
+|               |________ Project Management Plan                     |________ Github
+|               |________ Cost Management Plan
 |
 |________ EXECUTING
-|                 |________
+|                 |________ 
 |                 |________
 |                 |________
 |                 |________
