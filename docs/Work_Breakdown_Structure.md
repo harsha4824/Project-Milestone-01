@@ -43,28 +43,12 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Technology                                  |________ Software Application
 |               |________ Project Management Plan                     |________ Github
 |               |________ Cost Management Plan
-|
 |________ EXECUTING
 |                 |________ 
 |                 |________
 |                 |________
 |                 |________
 |                 |________
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |
 |________ MONITORING AND CONTROL
 |
