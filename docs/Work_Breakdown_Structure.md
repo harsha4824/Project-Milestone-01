@@ -59,10 +59,9 @@ A GUIDE TO PROJECT MANAGEMENT
 |                 |________ Show the difficulty level
 |                 |________ Show the Reference
 |                 |________ Showing the key 
-<<<<<<< HEAD
 |                 |________ Show the Result and percentage  
-=======
->>>>>>> 72fea9520c704525c203d57db9e14b77c504f873
+|                 |________ Getting Back to the Chapter of the course
+|                 |________ Log out
 |
 |________ MONITORING AND CONTROL
 |
