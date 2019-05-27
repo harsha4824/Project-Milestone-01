@@ -51,6 +51,12 @@ A GUIDE TO PROJECT MANAGEMENT
 |                 |________ Testing and Analysing Login Page
 |                 |________ Save Login page Directory
 |                 |________ New user registration Page 
+|                 |________ Selecting the course 
+|                 |________ Selecting the Chapter of the course
+|                 |________ Selecting mode of the quiz
+|                 |________ Show Correct answer 
+|                 |________ Show the description
+|                 |________ Show the difficulty level
 |
 |________ MONITORING AND CONTROL
 |
