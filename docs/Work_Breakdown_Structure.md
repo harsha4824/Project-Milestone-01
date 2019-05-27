@@ -57,11 +57,8 @@ A GUIDE TO PROJECT MANAGEMENT
 |                 |________ Show Correct answer 
 |                 |________ Show the description
 |                 |________ Show the difficulty level
-<<<<<<< HEAD
 |                 |________ Show the Reference
 |                 |________ Showing the key 
-=======
->>>>>>> a59f76bf83a7f33cc1bceef804f3f580d6b6c4d3
 |
 |________ MONITORING AND CONTROL
 |
