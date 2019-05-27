@@ -26,6 +26,39 @@ The Structure of the project is a hierarchy shown in link below:
 ### 1.2.1 **External Interfaces**
 ### 1.2.2 **Internal Structure**
 ### 1.2.3 **Roles and Responsibilities**
+ <table class="table table-dark">
+                         
+<tr> 
+<th>Name</th>
+<th>Role</th>
+<th>Organization/Position</th>
+<th>Contact Information</th>
+</tr>
+<tr>
+<td>VenkataSandeep Katrevula</td>
+<td>Project Manager/Content Developer</td>
+<td>Project Manager/Content Developer</td>
+<td>S534965@nwmissouri.edu</td>
+</tr>
+<tr>
+<td>Sai Kiran Doddapaneni</td>
+<td>Team Lead/ Web Developer</td>
+<td>Team Lead/ Web Developer</td>
+<td>S534736@nwmissouri.edu</td>
+</tr>
+<tr>
+<td>Chatur Veda Vyas Kurma</td>
+<td>Web Developer/UI</td>
+<td>Web Developer/UI</td>
+<td>S534687@nwmissouri.edu</td>
+</tr>
+<tr>
+<td>Harsha Vardhan Reddy Nallavolu</td>
+<td>UI/Content Developer</td>
+<td>UI/Content Developer</td>
+<td>S534688@nwmissouri.edu</td>
+</tr>
+</table>
 ## 1.3 **Project Management Process Plans**
 ### 1.3.1 **Project Initiation**
 ### 1.3.2 **Project Planning**
