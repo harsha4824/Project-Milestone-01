@@ -48,7 +48,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |                 |________ Daily Scrum Meeting
 |                 |________ Creating Login Page
 |                 |________ Generating User Id and Password
-|                 |________
+|                 |________ Testing and Analysing Login Page
 |
 |________ MONITORING AND CONTROL
 |
