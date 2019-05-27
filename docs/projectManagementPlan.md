@@ -198,3 +198,31 @@
 -  To create the Plan Cost Management, necessary inputs are required such as Project Management Plan, Project Charter, Enterprise Environmental factors and Organizational Process.  
 -  The main advantage of this process is that it gives guidance as well as direction on how the project costs should be managed all throughout the implementation of the project.
 
+<h4>Project Cost Management Process:</h4>
+1.	Planning Cost Management
+1.	Estimating the Costs
+1.	Determining the Budgets
+1.	Controlling the cost
+
+<h4> Level of accuracy:</h4>  
+-  Activity cost is rounded to nearest values for better calculations.
+-  Level of accuracy for activity cost and contingency funds is 90 percent. 
+<h4>Units of measure:</h4>
+-  In this project each unit is defined in units per hours. 
+<h4>Organizational procedures links:</h4>
+<p>We refer to the WBS component used for project. Each component in WBS is assigned to the control account (CA). Each control account is often assigned a unique user id and password that is used in the organization’s accounting system. Team members will use unique codes to refer particular control account.</p> 
+<h4>Rules of performance measurement:<h4>
+<p>Earned value Management is used to measure cost performance. It focuses on tracking planned cost verses actual cost. It provides the importance of completed data percentage to do cost calculations. 
+Most of the IT Projects don’t have good information about planning. So it is good to track actual progress verses planned one. Which leads us to the where project is lagging and how much extra amount is needed to finish the project successfully.</p> 
+<h4>Reporting formats:</h4>
+
+
+-  This section would describe the format and frequency of cost reports required for the project. 
+-  Reports are very useful for tracking progress and success of projects. Selecting of cost reporting formats plays an important role to display reports.
+-  It is better to use good reporting formats to display cost information effectively. 
+<h4>Control thresholds:</h4> 
+ 
+ -  Change requests during programming might increase the project budget than estimated cost. 
+ -  Fixing the bugs during the development could cost more than the estimated cost. 
+ -  10 percent of Variance allowed. 
+
