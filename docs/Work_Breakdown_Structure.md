@@ -19,11 +19,10 @@
 A GUIDE TO PROJECT MANAGEMENT
 |
 |________ INITIATING        
-|                  |________ Project Management ______________________
-|                  |________ Appointing the Project Manager           |________Project Manager
-|                  |________ Selecting the Stake Holders              |________Team Leade
-|                  |________ Access to the Feasibility                |________Web Developer
-|                  |________ Needs Of the Resources                   |________UI DEsigner
+|                  |________ Appointing the Project Manager           
+|                  |________ Selecting the Stake Holders           
+|                  |________ Access to the Feasibility                
+|                  |________ Needs Of the Resources                   
 |                  |________ Develop Project Charter
 |                  |________ Approving the Project Charter
 |                  |________ Design and vision
