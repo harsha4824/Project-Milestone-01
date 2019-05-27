@@ -46,8 +46,8 @@ A GUIDE TO PROJECT MANAGEMENT
 |________ EXECUTING
 |                 |________ Creating Quiz Application
 |                 |________ Daily Scrum Meeting
-|                 |________ 
-|                 |________
+|                 |________ Creating Login Page
+|                 |________ Generating User Id and Password
 |                 |________
 |
 |________ MONITORING AND CONTROL
