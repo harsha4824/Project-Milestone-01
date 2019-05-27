@@ -25,19 +25,13 @@ A GUIDE TO PROJECT MANAGEMENT
 |                  |________ Needs Of the Resources
 |                  |________ Design and vision
 |                  |________ Approving the project
-|
-|
 |________ PLANING
 |               |________ Need of Resources
 |               |________ Cost Analysis 
 |               |________ Risk Assessment
-<<<<<<< HEAD
 |               |________ Technology
-|              
-=======
 |               |________ 
 |
->>>>>>> 66df5b4b0f3da2d9dd226618a33c0ac442747252
 |________ EXECUTING
 |
 |
