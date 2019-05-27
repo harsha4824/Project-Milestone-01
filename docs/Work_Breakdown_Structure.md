@@ -29,7 +29,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |                  |________ Design and vision
 |                  |________ Approving the project
 |________ PLANING
-|               |________ Need of Resources
+|               |________ Resource Availability
 |               |________ Developing Scope Statement
 |               |________ Hardware ___________________________________
 |               |________ Creating Scope Statement                    |________ Laptops
