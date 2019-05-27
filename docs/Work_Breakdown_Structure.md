@@ -34,6 +34,8 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Creating Scope Statement
 |               |________ Kick-off Meetings
 |               |________ Developing Project Plan
+|               |________ Submitting Project Plan to Sponsor
+|               |________ Approval from Sponsor
 |               |________ Cost Analysis 
 |               |________ Risk Assessment
 |               |________ Technology
