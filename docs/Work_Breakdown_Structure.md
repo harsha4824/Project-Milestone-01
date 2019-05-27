@@ -44,7 +44,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Project Management Plan                     |________ Github
 |               |________ Cost Management Plan
 |________ EXECUTING
-|                 |________ 
+|                 |________ Creating Quiz Application
 |                 |________
 |                 |________
 |                 |________
