@@ -30,9 +30,9 @@ A GUIDE TO PROJECT MANAGEMENT
 |________ PLANING
 |               |________ Need of Resources
 |               |________ Cost Analysis 
-|               |________ 
-|               |________ 
-|
+|               |________ Risk Assessment
+|               |________ Technology
+|              
 |________ EXECUTING
 |
 |
