@@ -43,7 +43,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |                                                                     |________ Github
 |
 |________ EXECUTING
-|
+|                 |________
 |
 |
 |
