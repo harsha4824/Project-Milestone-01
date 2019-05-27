@@ -44,7 +44,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |
 |________ EXECUTING
 |                 |________
-|
+|                 |________
 |
 |
 |
