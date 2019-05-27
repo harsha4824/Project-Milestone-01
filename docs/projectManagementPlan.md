@@ -242,3 +242,11 @@ We have referred many documents of the successful projects
 1.	Controlling the cost
 
 
+<h4>Cost Management Plan includes following </h4>
+
+<h4>Level of accuracy: </h4> 
+
+-  Activity cost is rounded to nearest values for better calculations. 
+-  Level of accuracy for activity cost and contingency funds is 90 percent. 
+
+
