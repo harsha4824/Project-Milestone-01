@@ -62,7 +62,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |                 |________ Log out
 |
 |________ MONITORING AND CONTROL
-|                              |________ Tracking the performance of each user
+|                              |________ Tracking the performance of each Employee
 |                              |________ Detecting the issues
 |                              |________ Resolving the issues
 |                              |________ Tracking the Employee Contribution 
