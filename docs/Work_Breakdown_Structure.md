@@ -71,7 +71,8 @@ A GUIDE TO PROJECT MANAGEMENT
 |                              |________ Formal Acceptance of Project
 |
 |________ CLOSE-OUT
-                  |________ Finishing the Project ON time                                                                                       |________ Submitting Project to the Sponsorer                                                      
+                  |________ Finishing the Project ON time                                                                                      
+                  |________ Submitting Project to the Sponsorer                                                      
                   |________ Getting Project Approval
                   |________ Taking the Pay- Checks
 ```
