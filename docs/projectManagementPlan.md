@@ -230,6 +230,15 @@ We have referred many documents of the successful projects
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Scheduling Sprints**
 # 5. **Project Cost Management**
 
+-  To create the Plan Cost Management, necessary inputs are required such as Project Management Plan, Project Charter, Enterprise Environmental factors and Organizational Process.  
+-  The main advantage of this process is that it gives guidance as well as direction on how the project costs should be managed all throughout the implementation of the project.
 
+<h4>Project Cost Management Process:</h4>
+
+
+1.	Planning Cost Management
+1.	Estimating the Costs
+1.	Determining the Budgets
+1.	Controlling the cost
 
 
