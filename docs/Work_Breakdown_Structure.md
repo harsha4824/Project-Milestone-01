@@ -29,10 +29,11 @@ A GUIDE TO PROJECT MANAGEMENT
 |
 |________ PLANING
 |               |________ Need of Resources
-|               |________ Cost Analysis
+|               |________ Cost Analysis 
 |               |________ 
 |               |________ 
 |               |________ 
+|
 |
 |
 |________ EXECUTING
