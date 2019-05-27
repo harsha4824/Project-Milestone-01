@@ -20,7 +20,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |
 |________ INITIATING
 |                  |
-|                  |________
+|                  |________ Deciding the Project
 |                  |
 |                  |
 |                  |________
