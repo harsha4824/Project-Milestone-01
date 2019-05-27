@@ -46,20 +46,20 @@ A GUIDE TO PROJECT MANAGEMENT
 |________ EXECUTING
 |                 |________ Creating Quiz Application
 |                 |________ Daily Scrum Meeting
-|                 |________ Creating Login Page
-|                 |________ Generating User Id and Password
-|                 |________ Testing and Analysing Login Page
+|                 |________ Creating Login Page ____________________________
+|                 |________ Generating User Id and Password                 |________ Existing User
+|                 |________ Testing and Analysing Login Page                |________ New User
 |                 |________ Save Login page Directory
-|                 |________ New user registration Page 
-|                 |________ Selecting the course 
-|                 |________ Selecting the Chapter of the course
-|                 |________ Selecting mode of the quiz
-|                 |________ Show Correct answer 
-|                 |________ Show the description
-|                 |________ Show the difficulty level
-|                 |________ Show the Reference
-|                 |________ Showing the key 
-|                 |________ Show the Result and percentage  
+|                 |________ New user registration Page ____________________________________
+|                 |________ Selecting the course                                           |________ Email-id
+|                 |________ Selecting the Chapter of the course                            |________ User name, Password
+|                 |________ Selecting mode of the quiz _______________                     |________ Contact Details
+|                 |________ Show Correct answer                       |________ Theoretical
+|                 |________ Show the description                      |________ Objective _________________
+|                 |________ Show the difficulty level                                                      |________ True/False
+|                 |________ Show the Reference                                                             |________ Multiple Choice
+|                 |________ Showing the key                                                                |________ Filling Blanks
+|                 |________ Show the Result and percentage                                                 |________ Matching
 |                 |________ Getting Back to the Chapter of the course
 |                 |________ Log out
 |
