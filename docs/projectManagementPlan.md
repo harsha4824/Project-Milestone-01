@@ -22,7 +22,7 @@ A Guide to the Project Management Body of Knowledge (PMBOK Guide) 2000 edition -
 We have referred many documents of the successful projects
 ## 1.2 **Project Organisation**
 The Structure of the project is a hierarchy shown in link below:
-- [Project Structure]()
+- [Project Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/ProjectStructure.md)
 ### 1.2.1 **External Interfaces**
 ### 1.2.2 **Internal Structure**
 ### 1.2.3 **Roles and Responsibilities**
