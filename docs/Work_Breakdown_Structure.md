@@ -25,21 +25,6 @@ A GUIDE TO PROJECT MANAGEMENT
 |                  |________ Needs Of the Resources
 |                  |________ Design and vision
 |                  |________ Approving the project
-<<<<<<< HEAD
-=======
-|                  |________ 
-|                  |
-|                  |________
-|
-|
-|
-|
-|
-|
-|
-|
-|
->>>>>>> 7730d6ea199e73bc2554c6c6373baf651641d468
 |
 |________ PLANING
 |
