@@ -213,9 +213,11 @@
 
 <h4>Units of measure:</h4>
 
+
 -  In this project each unit is defined in units per hours. 
 
 <h4>Organizational procedures links:</h4>
+
 <p>We refer to the WBS component used for project. Each component in WBS is assigned to the control account (CA). Each control account is often assigned a unique user id and password that is used in the organization’s accounting system. Team members will use unique codes to refer particular control account.</p> 
 
 <h4>Rules of performance measurement:<h4>
