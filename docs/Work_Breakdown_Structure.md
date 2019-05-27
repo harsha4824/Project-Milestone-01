@@ -30,6 +30,8 @@ A GUIDE TO PROJECT MANAGEMENT
 |                  |________ Approving the project
 |________ PLANING
 |               |________ Need of Resources
+|               |________ Hardware
+|               |________ Creating Scope Statement
 |               |________ Cost Analysis 
 |               |________ Risk Assessment
 |               |________ Technology
