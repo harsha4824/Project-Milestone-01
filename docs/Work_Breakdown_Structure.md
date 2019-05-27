@@ -1,9 +1,13 @@
 # **Work Breakdown Structure**
 
-### **Project Name:** A Guide to Project Management
-### **Focus Area:** Main Focus Area is Executing
-### **Product:** Quiz Application
-### **Prepared By:** Chatur Veda Vyas Kurma
+### **Project Name:**    
+A Guide to Project Management
+### **Focus Area:**    
+Main Focus Area is Executing
+### **Product:**
+Quiz Application
+### **Prepared By:** 
+Chatur Veda Vyas Kurma
 
 ## **Project Closure Report Version Control**
 | Version | Date | Author | Change Description |
