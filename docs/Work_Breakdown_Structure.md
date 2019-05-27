@@ -20,7 +20,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |
 |________ INITIATING
 |                  |
-|                  |________ Deciding the Project
+|                  |________ Appointing the Project Manager
 |                  |
 |                  |
 |                  |________
