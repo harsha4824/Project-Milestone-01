@@ -23,9 +23,8 @@ A GUIDE TO PROJECT MANAGEMENT
 |                  |________ Selecting the Stake Holders
 |                  |________ Access to the Feasibility
 |                  |________ Needs Of the Resources
-|                  |
-|                  | 
-|                  |________
+|                  |________ Design and vision
+|                  |________ Approving the project
 |                  |
 |                  |________
 |
