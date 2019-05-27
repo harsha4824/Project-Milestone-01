@@ -200,10 +200,11 @@
 
 <h4>Project Cost Management Process:</h4>
 
-1. Planning Cost Management
-1. Estimating the Costs
-1. Determining the Budgets
-1. Controlling the cost
+1.	Planning Cost Management
+1.	Estimating the Costs
+1.	Determining the Budgets
+1.	Controlling the cost
+
 
 <h4> Level of accuracy:</h4>  
 -  Activity cost is rounded to nearest values for better calculations.
@@ -212,9 +213,13 @@
 -  In this project each unit is defined in units per hours. 
 <h4>Organizational procedures links:</h4>
 <p>We refer to the WBS component used for project. Each component in WBS is assigned to the control account (CA). Each control account is often assigned a unique user id and password that is used in the organization’s accounting system. Team members will use unique codes to refer particular control account.</p> 
+
 <h4>Rules of performance measurement:<h4>
-<p>Earned value Management is used to measure cost performance. It focuses on tracking planned cost verses actual cost. It provides the importance of completed data percentage to do cost calculations. 
-Most of the IT Projects don’t have good information about planning. So it is good to track actual progress verses planned one. Which leads us to the where project is lagging and how much extra amount is needed to finish the project successfully.</p> 
+
+-  Earned value Management is used to measure cost performance. It focuses on tracking planned cost verses actual cost. It provides the importance of completed data percentage to do cost calculations. 
+-  Most of the IT Projects don’t have good information about planning. So it is good to track actual progress verses planned one. Which leads us to the where project is lagging and how much extra amount is needed to finish the project successfully.
+
+
 <h4>Reporting formats:</h4>
 
 
