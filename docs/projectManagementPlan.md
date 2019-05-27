@@ -1,5 +1,40 @@
-
 # 1. **Project Management Plan**
+## 1.1 **Project Overview**
+The aim of the project is to deliver a interactive web application based quiz that covers the PMBOK methodology and the required Project Management course objectives.
+### 1.1.1 **Purpose,Scope and Objective**
+The quiz web application would help the students to learn and understand various concepts of Project Management.Users/Students will be given unlimited attempts to the quiz so that users/students can come accross  all questions from the database which contains questions from each and every chapter of the book "A Guide to PMBOK" and practice them whenever they want. 
+
+- To deliver a web application which interacts with the database to display quiz questions to which users/students answer.The answers submitted by the users/students are then compared with the answers in database and the quiz is graded.
+### 1.1.2 **Assumptions, Constraints and Risks**
+Prior to usage of the application, users need not know PMBOK methodology in depth.Questions are designed as such would help users to learn topics and understand.
+- Project needs to be completed by fall 2019.
+- Training to be provided to some team members.
+### 1.1.3 **Project Deliverables**
+Project Charter, Project management plan, Requirements specifications document, Scope statement, Work Breakdown Structure, Gantt charts, Cost management plan, Stakeholder register, Status reports, Issue logs, Final project documentation and lessons learnt documentation. Finally, a product to be delivered to the customer based on customer requirement satisfaction.
+### 1.1.4 **Schedule and Budget Summary**
+- All the tasks are to be completed by August 20, 2019.
+- Budget to complete the project is $1000.
+### 1.1.5 **Evolution of the Plan**
+Procedure need to be followed for every change request i.e., the changes made must be reviewed by the Project Manager and a resource among the team is identified and given access.
+- All the changes made during web application development will be tracked and checked. 
+### 1.1.6 **References**
+A Guide to the Project Management Body of Knowledge (PMBOK Guide) 2000 edition - Project Management Institute.
+We have referred many documents of the successful projects
+## 1.2 **Project Organisation**
+### 1.2.1 **External Interfaces**
+### 1.2.2 **Internal Structure**
+### 1.2.3 **Roles and Responsibilities**
+## 1.3 **Project Management Process Plans**
+### 1.3.1 **Project Initiation**
+### 1.3.2 **Project Planning**
+### 1.3.3 **Project Execution**
+### 1.3.4 **Project Monitoring and Control**
+### 1.3.1 **Project Closing**
+## 1.4 **Project Specific and Project Supporting Plans**
+
+
+
+
 # 2. **Project Charter**
 <h4>Project Title: A Guide to Project Management</h4>
 <h4> Project Start Date: 05/16/2019               </h4>
@@ -195,46 +230,6 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Scheduling Sprints**
 # 5. **Project Cost Management**
 
--  To create the Plan Cost Management, necessary inputs are required such as Project Management Plan, Project Charter, Enterprise Environmental factors and Organizational Process.  
--  The main advantage of this process is that it gives guidance as well as direction on how the project costs should be managed all throughout the implementation of the project.
-
-<h4>Project Cost Management Process:</h4>
-
-1.	Planning Cost Management
-1.	Estimating the Costs
-1.	Determining the Budgets
-1.	Controlling the cost
 
 
-<h4> Level of accuracy:</h4>  
-
--  Activity cost is rounded to nearest values for better calculations.
--  Level of accuracy for activity cost and contingency funds is 90 percent. 
-
-<h4>Units of measure:</h4>
-
-
--  In this project each unit is defined in units per hours. 
-
-<h4>Organizational procedures links:</h4>
-
-<p>We refer to the WBS component used for project. Each component in WBS is assigned to the control account (CA). Each control account is often assigned a unique user id and password that is used in the organization’s accounting system. Team members will use unique codes to refer particular control account.</p> 
-
-<h4>Rules of performance measurement:<h4>
-
--  Earned value Management is used to measure cost performance. It focuses on tracking planned cost verses actual cost. It provides the importance of completed data percentage to do cost calculations. 
--  Most of the IT Projects don’t have good information about planning. So it is good to track actual progress verses planned one. Which leads us to the where project is lagging and how much extra amount is needed to finish the project successfully.
-
-
-<h4>Reporting formats:</h4>
-
-
--  This section would describe the format and frequency of cost reports required for the project. 
--  Reports are very useful for tracking progress and success of projects. Selecting of cost reporting formats plays an important role to display reports.
--  It is better to use good reporting formats to display cost information effectively. 
-<h4>Control thresholds:</h4> 
- 
- -  Change requests during programming might increase the project budget than estimated cost. 
- -  Fixing the bugs during the development could cost more than the estimated cost. 
- -  10 percent of Variance allowed. 
 
