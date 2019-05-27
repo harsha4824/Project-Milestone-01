@@ -31,8 +31,13 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Need of Resources
 |               |________ Cost Analysis 
 |               |________ Risk Assessment
+<<<<<<< HEAD
 |               |________ Technology
 |              
+=======
+|               |________ 
+|
+>>>>>>> 66df5b4b0f3da2d9dd226618a33c0ac442747252
 |________ EXECUTING
 |
 |
