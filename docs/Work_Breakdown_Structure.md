@@ -25,7 +25,10 @@ A GUIDE TO PROJECT MANAGEMENT
 |                  |________ Access to the Feasibility                |________Web Developer
 |                  |________ Needs Of the Resources                   |________UI DEsigner
 |                  |________ Develop Project Charter
+<<<<<<< HEAD
 |                  |________ Approving the Project Charter
+=======
+>>>>>>> e5851dacf08d2c5afb8f0348b1cbddb69c9ffcab
 |                  |________ Design and vision
 |                  |________ Approving the project
 |________ PLANING
