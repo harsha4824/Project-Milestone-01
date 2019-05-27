@@ -26,6 +26,7 @@ The Structure of the project is a hierarchy shown in link below:
 ### 1.2.1 **External Interfaces**
 ### 1.2.2 **Internal Structure**
 ### 1.2.3 **Roles and Responsibilities**
+ 
  <table class="table table-dark">
                          
 <tr> 
@@ -59,6 +60,8 @@ The Structure of the project is a hierarchy shown in link below:
 <td>S534688@nwmissouri.edu</td>
 </tr>
 </table>
+<br>
+
 ## 1.3 **Project Management Process Plans**
 ### 1.3.1 **Project Initiation**
 ### 1.3.2 **Project Planning**
