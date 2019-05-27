@@ -60,8 +60,11 @@ A GUIDE TO PROJECT MANAGEMENT
 |                 |________ Show the Reference
 |                 |________ Showing the key 
 |                 |________ Show the Result and percentage  
+<<<<<<< HEAD
 |                 |________ Getting Back to the Chapter of the course
 |                 |________ Log out
+=======
+>>>>>>> 824c1825f4e2db96bb63fd7a02a2cc1ed04065f7
 |
 |________ MONITORING AND CONTROL
 |
