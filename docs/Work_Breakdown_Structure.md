@@ -64,27 +64,14 @@ A GUIDE TO PROJECT MANAGEMENT
 |                 |________ Log out
 |
 |________ MONITORING AND CONTROL
+|                              |________ Tracking the performance of each user
+|                              |________ Detecting the issues
+|                              |________ Resolving the issues
+|                              |________ Tracking the Employee Contribution 
+|                              |________ Formal Acceptance of Project
 |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|________ CLOSING
-
-
-
+|________ CLOSE-OUT
+                  |________ Finishing the Project ON time                                                                                       |________ Submitting Project to the Sponsorer                                                      
+                  |________ Getting Project Approval
+                  |________ Taking the Pay- Checks
 ```
