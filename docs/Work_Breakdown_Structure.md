@@ -22,9 +22,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |                  |________ Appointing the Project Manager
 |                  |________ Selecting the Stake Holders
 |                  |________ Access to the Feasibility
-|                  |
-|                  |
-|                  |________
+|                  |________ Needs Of the Resources
 |                  |
 |                  | 
 |                  |________
