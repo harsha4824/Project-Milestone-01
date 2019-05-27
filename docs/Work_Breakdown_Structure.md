@@ -26,25 +26,13 @@ A GUIDE TO PROJECT MANAGEMENT
 |                  |________ Design and vision
 |                  |________ Approving the project
 |
+|
 |________ PLANING
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|               |________ Need of Resources
+|               |________ 
+|               |________ 
+|               |________ 
+|               |________ 
 |
 |
 |________ EXECUTING
