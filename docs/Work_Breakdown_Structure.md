@@ -41,7 +41,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Cost Analysis                               |________ Software Licensed Version
 |               |________ Risk Assessment                             |________ Online Server
 |               |________ Technology                                  |________ Software Application
-|               |________ Project Management Plan                     |________ JIRA
+|               |________ Project Management Plan                     |________ JIRA 
 |               |________ Cost Management Plan
 |________ EXECUTING
 |                 |________ Creating Quiz Application
