@@ -24,6 +24,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |                  |________ Selecting the Stake Holders              |________Team Leade
 |                  |________ Access to the Feasibility                |________Web Developer
 |                  |________ Needs Of the Resources                   |________UI DEsigner
+|                  |________ Develop Project Charter
 |                  |________ Design and vision
 |                  |________ Approving the project
 |________ PLANING
@@ -31,7 +32,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Cost Analysis 
 |               |________ Risk Assessment
 |               |________ Technology
-|               |________ 
+|               |________ Hardware
 |
 |________ EXECUTING
 |
