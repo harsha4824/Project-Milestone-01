@@ -249,4 +249,8 @@ We have referred many documents of the successful projects
 -  Activity cost is rounded to nearest values for better calculations. 
 -  Level of accuracy for activity cost and contingency funds is 90 percent. 
 
+<h4>Units of measure:</h4>  
+
+-  In this project each unit is defined in units per hours. 
+
 
