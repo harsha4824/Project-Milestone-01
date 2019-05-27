@@ -33,6 +33,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Hardware
 |               |________ Creating Scope Statement
 |               |________ Kick-off Meetings
+|               |________ Developing Project Plan
 |               |________ Cost Analysis 
 |               |________ Risk Assessment
 |               |________ Technology
