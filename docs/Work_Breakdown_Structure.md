@@ -32,6 +32,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Need of Resources
 |               |________ Hardware
 |               |________ Creating Scope Statement
+|               |________ Kick-off Meetings
 |               |________ Cost Analysis 
 |               |________ Risk Assessment
 |               |________ Technology
