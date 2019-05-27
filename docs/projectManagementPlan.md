@@ -23,8 +23,12 @@ We have referred many documents of the successful projects
 ## 1.2 **Project Organisation**
 The Structure of the project is a hierarchy shown in link below:
 - [Project Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/ProjectStructure.md)
+ Chart in the above link to depicts the lines of authority,responsibility and communication within the project.
 ### 1.2.1 **External Interfaces**
+Users/Stdents are the external who are going to use the Product.
 ### 1.2.2 **Internal Structure**
+This project requires project manager, web developer, content, UI developer and database analyst. All the staff working for the must be skilled and trained. 
+
 ### 1.2.3 **Roles and Responsibilities**
  
  <table class="table table-dark">
@@ -64,11 +68,22 @@ The Structure of the project is a hierarchy shown in link below:
 
 ## 1.3 **Project Management Process Plans**
 ### 1.3.1 **Project Initiation**
+ Project Initiation processes, documentation, and deliverables,for example the Project Charter is the main deliverable of Project Initiation and the Kickoff Meeting is the initial Project Team meeting. 
 ### 1.3.2 **Project Planning**
+ Project Initiation & Planning processes, documentation, and deliverables, for example the Project Charter is the main deliverable of Project Initiation and the Kickoff Meeting is the initial Project Team meeting
 ### 1.3.3 **Project Execution**
+ Project Execution processes, documentation, and deliverables,for example the Project Scheduler is the main deliverable of the Project
+Execution. 
 ### 1.3.4 **Project Monitoring and Control**
+Project Monitoring & Control processes, documentation, and deliverables, for example the Project Performance Measurement is a primary
+project monitoring & control activity.
 ### 1.3.1 **Project Closing**
+Project Closure processes, documentation, and deliverables, for example the Final Acceptance (of the project deliverable) is a primary
+Project Closure milestone.
 ## 1.4 **Project Specific and Project Supporting Plans**
+- Project Management Plan specifies the project-specific process,for this unique project. This section defines the underlying processes, the project management methodology, the infrastructure for this project, and the agreed-to criteria for project acceptance.
+-  configuration management of the work products; verification and validation steps and approach;project documentation; project quality assurance; project reviews and audits;problem resolution; and the selection and management of the project subcontractors
+
 
 
 
