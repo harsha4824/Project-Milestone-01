@@ -21,6 +21,8 @@ Procedure need to be followed for every change request i.e., the changes made mu
 A Guide to the Project Management Body of Knowledge (PMBOK Guide) 2000 edition - Project Management Institute.
 We have referred many documents of the successful projects
 ## 1.2 **Project Organisation**
+The Structure of the project is a hierarchy shown in link below:
+- [Project Structure]()
 ### 1.2.1 **External Interfaces**
 ### 1.2.2 **Internal Structure**
 ### 1.2.3 **Roles and Responsibilities**
