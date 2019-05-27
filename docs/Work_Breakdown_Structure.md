@@ -29,7 +29,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |                  |________ Design and vision
 |                  |________ Approving the project
 |________ PLANING
-|               |________ Need of Resources
+|               |________ Resource Availability
 |               |________ Developing Scope Statement
 |               |________ Hardware ___________________________________
 |               |________ Creating Scope Statement                    |________ Laptops
@@ -41,7 +41,7 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Cost Analysis                               |________ Software Licensed Version
 |               |________ Risk Assessment                             |________ Online Server
 |               |________ Technology                                  |________ Software Application
-|               |________ Project Management Plan                     |________ Github
+|               |________ Project Management Plan                     |________ JIRA
 |               |________ Cost Management Plan
 |________ EXECUTING
 |                 |________ Creating Quiz Application
