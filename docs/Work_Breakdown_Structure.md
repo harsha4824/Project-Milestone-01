@@ -45,8 +45,8 @@ A GUIDE TO PROJECT MANAGEMENT
 |               |________ Cost Management Plan
 |________ EXECUTING
 |                 |________ Creating Quiz Application
-|                 |________
-|                 |________
+|                 |________ Daily Scrum Meeting
+|                 |________ 
 |                 |________
 |                 |________
 |
