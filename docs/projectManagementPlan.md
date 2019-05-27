@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-<h1>Cost Management Plan</h1>
-<h4>
-- To create the Plan Cost Management, necessary inputs are required such as Project Management Plan, Project Charter, Enterprise Environmental factors and Organizational Process.  
-- The main advantage of this process is that it gives guidance as well as direction on how the project costs should be managed all throughout the implementation of the project.
-</h4>
-=======
+
 # 1. **Project Management Plan**
 # 2. **Project Charter**
 <h4>Project Title: A Guide to Project Management</h4>
@@ -201,7 +195,3 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Scheduling Sprints**
 # 5. **Project Cost Management**
 
-
-
-
->>>>>>> 8195b793b80aaae2879239e38222f7c383ad3dd2
