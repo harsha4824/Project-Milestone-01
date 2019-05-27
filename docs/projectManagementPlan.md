@@ -263,9 +263,12 @@ We have referred many documents of the successful projects
 -  It provides the importance of completed data percentage to do cost calculations. 
 -  Most of the IT Projects don’t have good information about planning. So it is good to track actual progress verses planned one. Which leads us to the where project is lagging and how much extra amount is needed to finish the project successfully. 
 
+
+
 <h4>Reporting formats:</h4> 
 
 -  This section describes the format and frequency of cost reports required for the project. 
+-  This section would describe the format and frequency of cost reports required for the project. 
 -  Reports are very useful for tracking progress and success of projects. 
 -  Selecting of cost reporting formats plays an important role to display reports.
 -  It is better to use good reporting formats to display cost information effectively. 
