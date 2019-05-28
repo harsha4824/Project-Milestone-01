@@ -470,49 +470,38 @@ Project Closure milestone.
  -  10 percent of Variance allowed. 
  
  <h4>Project Cost Estimation Table </h4>
- Prepared by:
+<h4>Prepared by:</h4> Chatur Veda Vyas Kurma
  <table>
  <tr> <th>WBS items</th>   <th> #Units/hr</th>  <th>Cost/Unit/Hr</th>  <th>WBS Level 1 Totals</th>   <th>% of Total</th>
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
- <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td><h4> Project Management </h4> </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+  <tr> <td> Project Team Members</td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>Project Manager</td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>    Design and vision       </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>   Resource Availability        </td><td>         </td><td>            </td><td>                        </td><td>             </td>  
+ <tr> <td>   <h4> Hardware </h4>      </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>       Laptops    </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>    Database Server              </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td> <h4>  Software </h4>       </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td> Software Licensed Version          </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>  Online Server         </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>  Software Application         </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>    JIRA        </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td> Technology          </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>   Content Developing and Writing        </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>  Creating dummy data for testing         </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>  Video lectures          </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>      User interface Design     </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td> linking quiz data with performance graphs          </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>  Database Design          </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>  Creating Login Page          </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>    Existing User       </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>    New User       </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>  Generating User Id and Password                          </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>   New user registration Page         </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>  <h4> Testing  </h4>      </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>  Travel Cost         </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>     <h4>Reserves(20% of total estimate)</h4)      </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+  <tr> <td>  <h4>  Total Project Cost Estimate   </h4>    </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
    
  
  
