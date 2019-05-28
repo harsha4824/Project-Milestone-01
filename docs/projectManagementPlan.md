@@ -532,6 +532,7 @@ The product must be delivered to client without any delay. The Product must meet
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link for Gantt Chart:
 
 - [&nbsp;&nbsp;&nbsp;Gannt Chart](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Gann_chart.pod)
+-  ![Logo](https://raw.githubusercontent.com/chaturkurma/Project-Milestone-01/master/gant_chart_image.jpg)
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Scheduling Sprints**
 # 5. **Project Cost Management**
