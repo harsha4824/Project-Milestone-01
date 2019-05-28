@@ -37,17 +37,17 @@ Prior to usage of the application, users need not know PMBOK methodology in dept
 
 
 
-### 1.1.7 **Schedule and Budget Summary**
+### 1.1.6 **Schedule and Budget Summary**
 - All the tasks are to be completed by August 20, 2019.
 - Budget to complete the project is $1000.
 
 
-### 1.1.8 **Boundaries and interfaces**
+### 1.1.7 **Boundaries and interfaces**
 
 
 <P>Project Manager and team lead through out each development of the phases will be responsible for coordinating team meetings, updates, communications, and team deliverables</p>
 
-### 1.1.9 **Project responsibilities:**
+### 1.1.8 **Project responsibilities:**
 
 <P>Ultimately the whole complete development of project team is responsible for the successful delivery of the product.</P>
  <table class="table table-dark">
