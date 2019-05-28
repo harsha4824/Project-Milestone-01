@@ -16,6 +16,9 @@ Chatur Veda Vyas Kurma
 |         |        |         |   change 2            |
 |         |       |          |   change 3            |
 |         |        |          |  change 4            |
+ 
+## Work Breakdown Structure Link:
+- [Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/edit/master/docs/WBS.jpg)
 
 
 
