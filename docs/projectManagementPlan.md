@@ -34,7 +34,7 @@ Prior to usage of the application, users need not know PMBOK methodology in dept
 
 1.	Information Technology and Project Management by Kathy Schwalbe 8th edition
 1.	https://www.academia.edu/28118705/Example_of_Software_Project_Management_Plan_SPMP_
-1.  Smartdraw webtool is used to create the Work Break Down Structre
+1.  Smartdraw webtool is used to create the Work Break Down Structre https://www.smartdraw.com/
 
 
 
