@@ -489,7 +489,7 @@ Project Closure milestone.
 <br>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Scope Statement**
-## **Project Title:**
+### **Project Title:**
 A Guide to Project Management    <br>                                       
 **Date:** 5/23/2018		      
 **Prepared by:** VenkataSandeep Katrevula <br>
