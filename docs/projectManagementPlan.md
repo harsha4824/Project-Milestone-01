@@ -278,8 +278,8 @@ Project Closure milestone.
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Scope Statement**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Work Breakdown Structure**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;  Link for Work Breakdown Structure:
-- [&emsp; Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Work_Breakdown_Structure.md)<br><br><br>
-&nbsp;&nbsp;&nbsp;&nbsp; Link for Work Breakdown Structure Dictionary:<br>
+- [&emsp; Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Work_Breakdown_Structure.md)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  Link for Work Breakdown Structure Dictionary:
 - [&emsp; WBS Dictionary](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/WBS_Dictionary.md)
 
 
