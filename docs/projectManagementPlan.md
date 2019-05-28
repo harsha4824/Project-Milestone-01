@@ -10,16 +10,95 @@ Prior to usage of the application, users need not know PMBOK methodology in dept
 - Project needs to be completed by fall 2019.
 - Training to be provided to some team members.
 ### 1.1.3 **Project Deliverables**
-Project Charter, Project management plan, Requirements specifications document, Scope statement, Work Breakdown Structure, Gantt charts, Cost management plan, Stakeholder register, Status reports, Issue logs, Final project documentation and lessons learnt documentation. Finally, a product to be delivered to the customer based on customer requirement satisfaction.
-### 1.1.4 **Schedule and Budget Summary**
+1.	Preliminary Project Plan	
+1.	Requirements Specification
+1.	Analysis [Object model, Dynamic model, and User interface]
+1.	Architecture Specification
+1.	Component/Object Specification
+1.	Source Code
+1.	Test Plan
+1.  Final Product w/ Demo
+
+### 1.1.4 **Evaluation of this Document**
+
+<p>This document will be updated as the project progresses. Updates should be expected in the following sections:</p>
+1.	References - updated as necessary
+1.	Definitions, acronyms, and abbreviations – Please refer WBS Dictionary
+1.	Organizational Structure – Please refer the Project Charter
+1.	Technical Process – Website will be created by using Html, CSS, Node JS, JavaScript. In addition to these required statistical tool to analyze the performance of the students will be used. 
+1.	Schedule – Please refer the Project Schedule Document
+
+
+### 1.1.5 **References**
+
+
+1.	Information Technology and Project Management by Kathy Schwalbe 8th edition
+1.	https://www.academia.edu/28118705/Example_of_Software_Project_Management_Plan_SPMP_
+
+
+
+### 1.1.7 **Schedule and Budget Summary**
 - All the tasks are to be completed by August 20, 2019.
 - Budget to complete the project is $1000.
-### 1.1.5 **Evolution of the Plan**
-Procedure need to be followed for every change request i.e., the changes made must be reviewed by the Project Manager and a resource among the team is identified and given access.
-- All the changes made during web application development will be tracked and checked. 
-### 1.1.6 **References**
-A Guide to the Project Management Body of Knowledge (PMBOK Guide) 2000 edition - Project Management Institute.
-We have referred many documents of the successful projects
+
+
+### 1.1.8 **Boundaries and interfaces**
+
+
+<P>Project Manager and team lead through out each development of the phases will be responsible for coordinating team meetings, updates, communications, and team deliverables</p>
+
+### 1.1.9 **Project responsibilities:**
+
+<P>Ultimately the whole complete development of project team is responsible for the successful delivery of the product.</P>
+ <table class="table table-dark">
+                         
+<tr> 
+<th>1</th>
+<th>Preliminary Project Plan</th>
+<th>Venkatasandeep Katrevula</th>
+</tr>
+<tr> 
+<th>2</th>
+<th>	Requirements Specification    </th>
+<th>Venkatasandeep Katrevula</th>
+</tr>
+<tr> 
+<th>3</th>
+<th>Content Development and Statistical Analysis</th>
+<th>Venkatasandeep Katrevula</th>
+</tr>
+<tr> 
+<th>4</th>
+<th>Analysis [Object model, Dynamic model, and User interface </th>
+<th>Whole Team</th>
+</tr>
+<tr> 
+<th>5</th>
+<th>Architecture Specification </th>
+<th>Whole Team</th>
+</tr>
+<tr> 
+<th>6</th>
+<th>	Component/Object Specification   </th>
+<th>Whole Team</th>
+</tr>
+<tr> 
+<th>7</th>
+<th>	Component/Object Specification    </th>
+<th>Whole Team</th>
+</tr>
+<tr> 
+<th>8</th>
+<th>	Test Plan </th>
+<th>Venkatasandeep Katrevula</th>
+</tr>
+<tr> 
+<th>9</th>
+<th>	Final Product w/ Demo  </th>
+<th>Whole Team</th>
+</tr>
+
+
 ## 1.2 **Project Organisation**
 The Structure of the project is a hierarchy shown in link below:
 - [Project Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/ProjectStructure.md)
