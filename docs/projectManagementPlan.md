@@ -277,17 +277,17 @@ Project Closure milestone.
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) **Project Requirements Document**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Scope Statement**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Work Breakdown Structure**
-Link for Work Breakdown Structure:
-- [Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Work_Breakdown_Structure.md)
-Link for Work Breakdown Structure Dictionary:
-- [WBS Dictionary](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/WBS_Dictionary.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;  Link for Work Breakdown Structure:
+- [&emsp; Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Work_Breakdown_Structure.md)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Link for Work Breakdown Structure Dictionary:
+- [&emsp; WBS Dictionary](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/WBS_Dictionary.md)
 
 
 # 4. **Project Schedule Management**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) **Schedule Management Plan**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Gantt Chart**
-Link for Gantt Chart:
-- [Gannt Chart](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Gann_chart.pod)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link for Gantt Chart:
+- [&nbsp;&nbsp;&nbsp;Gannt Chart](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Gann_chart.pod)
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Scheduling Sprints**
 # 5. **Project Cost Management**
