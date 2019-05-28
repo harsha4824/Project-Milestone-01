@@ -164,7 +164,7 @@ i.	Technology risk  <br>
 ii.	People risk<br>
 iii.	Structure/process risk<br>
 
-###Project Staffing: 
+### Project Staffing: 
 
 Type of people required for this project:
 
