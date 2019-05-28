@@ -6,8 +6,8 @@
 
 | &emsp;&emsp;&emsp; **HYPOTHESIS / ASSUMPTION** &emsp;&emsp; | &emsp;&emsp;&emsp;  **WE ARE RIGHT IF...** &emsp;&emsp;&emsp; |
 |----------------------------------------------------------------------|---------------------------------------------------------|
-| What do you believe to be true? What do you need to measure to validate your hypothesis?  | What do you expect to discover from your test? What would make this a successful MVP?  |
-| fukfyulyglgyggygyigygyuguy                                         | ygouygiogyugoi                                  |
+| What do you believe to be true? What do you need to measure to validate your hypothesis?  | What do you expect to discover from your test?   |
+| People undestand the value of using online source. Peple are not willing to compromise on Quality as long as the Application helps in learning.   | Student who take our quiz once, invite their friends for using our application.  |
 
 
 | &emsp;&emsp;&emsp; **HUMAN ELEMENTS** &emsp;&emsp;&emsp;  | &emsp;&emsp;&emsp;  **BUSSINESS ELEMENTS** &emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;  **TECHNOLOGY ELEMENTS** &emsp;&emsp;&emsp; |
