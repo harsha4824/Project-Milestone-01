@@ -160,10 +160,11 @@ The deadline of project is 9th September 2018, Additional requirement from the c
 
 This section mentions any potential risks for the project. Also, schedules or methods are defined to prevent or to reduce the risks as below:
 
-i.	Technology risk
-ii.	People risk
-iii.	Structure/process risk
-Project Staffing: 
+i.	Technology risk  <br>
+ii.	People risk<br>
+iii.	Structure/process risk<br>
+
+###Project Staffing: 
 
 Type of people required for this project:
 
