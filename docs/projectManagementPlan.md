@@ -277,9 +277,18 @@ Project Closure milestone.
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) **Project Requirements Document**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Scope Statement**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Work Breakdown Structure**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;  Link for Work Breakdown Structure:
+- [&emsp; Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Work_Breakdown_Structure.md)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  Link for Work Breakdown Structure Dictionary:
+- [&emsp; WBS Dictionary](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/WBS_Dictionary.md)
+
+
 # 4. **Project Schedule Management**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) **Schedule Management Plan**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Gantt Chart**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link for Gantt Chart:
+- [&nbsp;&nbsp;&nbsp;Gannt Chart](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Gann_chart.pod)
+
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Scheduling Sprints**
 # 5. **Project Cost Management**
 
@@ -338,6 +347,58 @@ Project Closure milestone.
  -  Change requests during programming might increase the project budget than estimated cost. 
  -  Fixing the bugs during the development could cost more than the estimated cost. 
  -  10 percent of Variance allowed. 
+ 
+ <h4>Project Cost Estimation Table </h4>
+ Prepared by:
+ <table>
+ <tr> <th>WBS items</th>   <th> #Units/hr</th>  <th>Cost/Unit/Hr</th>  <th>WBS Level 1 Totals</th>   <th>% of Total</th>
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td>
+ <tr> <td>           </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+   
+ 
+ 
+ 
+ 
+ </table>
+ 
 
 
 
