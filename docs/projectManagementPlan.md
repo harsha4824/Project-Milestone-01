@@ -145,6 +145,8 @@ This project requires project manager, web developer, content, UI developer and 
 </tr>
 </table>
 <br>
+<br>
+
 ## 1.3	**Management and Technical Approaches**
 
 ### 1.3.1 **Objective:** 
