@@ -407,15 +407,7 @@ Project Closure milestone.
 # 4. **Project Schedule Management**
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) **Schedule Management Plan**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-88nc{font-weight:bold;border-color:inherit;text-align:center}
-.tg .tg-uys7{border-color:inherit;text-align:center}
-.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
   <tr>
     <th class="tg-uys7"><span style="font-weight:bold">ID</span><br></th>
@@ -502,6 +494,9 @@ Project Closure milestone.
     <td class="tg-0lax">Functional</td>
   </tr>
 </table>
+
+<br>
+
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Gantt Chart**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link for Gantt Chart:
 - [&nbsp;&nbsp;&nbsp;Gannt Chart](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Gann_chart.pod)
