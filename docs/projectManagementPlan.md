@@ -38,8 +38,8 @@ Prior to usage of the application, users need not know PMBOK methodology in dept
 
 
 ### 1.1.6 **Schedule and Budget Summary**
-- All the tasks are to be completed by August 20, 2019.
-- Budget to complete the project is $1000.
+- All the tasks are to be completed by September 15, 2019.
+- Budget to complete the project is $6,94,000.
 
 
 ### 1.1.7 **Boundaries and interfaces**
