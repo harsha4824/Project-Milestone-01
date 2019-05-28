@@ -494,7 +494,7 @@ Project Closure milestone.
  <tr> <td>  <h4> Testing  </h4></td><td>  </td><td>            </td><td>  $ 1,80,000 </td><td>     26 %</td> 
 <tr> <td> <h4> Travel Cost </h4></td><td> 15</td><td>$ 970</td><td> $ 14,550</td><td>       2.09 %</td> 
  <tr> <td>     <h4>Reserves(25% of total estimate)</h4)      </td><td>         </td><td> </td><td> $ 1,68,000</td><td>  24.3 % </td> 
-  <tr> <td>  <h4>  Total Project Cost Estimate </h4>    </td><td>         </td><td>            </td><td> $ 6,93,598</td><td> !00 % </td> 
+  <tr> <td>  <h4>  Total Project Cost Estimate </h4>    </td><td>         </td><td>            </td><td> $ 6,93,598</td><td> 100 % </td> 
    
  
  
