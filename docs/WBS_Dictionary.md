@@ -26,7 +26,7 @@
 <tr><td> 2.8.1 </th><td> Software Licensed Version </th><td> All the workers should have a latest version License </td></tr>
 <tr><td> 2.8.2 </th><td> Online Server </th><td> online server should be created for communication and application progress </td></tr>
 <tr><td> 2.8.3 </th><td> Software Application </th><td> All required applications must be equiped</td></tr>
-<tr><td> 2.8.4 </th><td>JIRAk </th><td> for Scrum </td></tr>
+<tr><td> 2.8.4 </th><td>JIRA </th><td> for Scrum </td></tr>
 <tr><td> 2.9 </th><td> Cost Analysis  </th><td> A proper estimation of cost should be made to complete the project </td></tr>
 <tr><td> 2.10</th><td> Risk Assessment </th><td> Aware of the risks arise as project continues </td></tr>
 <tr><td> 2.11 </th><td> Technology </th><td> Required technology should be learned </td></tr>
