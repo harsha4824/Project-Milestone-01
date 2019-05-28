@@ -497,14 +497,14 @@ Project Closure milestone.
 
 
 # 4. **Project Schedule Management**
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) **Schedule Management Plan**
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Gantt Chart**
+
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) **Gantt Chart**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link for Gantt Chart:
 - [&nbsp;&nbsp;&nbsp;Gannt Chart](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Gann_chart.pod)
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Scheduling Sprints**
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Scheduling Sprints**
 # 5. **Project Cost Management**
 
 -  To create the Plan Cost Management, necessary inputs are required such as Project Management Plan, Project Charter, Enterprise Environmental factors and Organizational Process.  
