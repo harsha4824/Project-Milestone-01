@@ -54,7 +54,8 @@ Prior to usage of the application, users need not know PMBOK methodology in dept
                          
 <tr> 
 <th>1</th>
-<th>Preliminary Project Plan</th>
+<th>Preliminary Project Plan</th> 
+
 <th>Venkatasandeep Katrevula</th>
 </tr>
 <tr> 
