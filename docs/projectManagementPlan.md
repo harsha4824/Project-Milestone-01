@@ -145,22 +145,61 @@ This project requires project manager, web developer, content, UI developer and 
 </tr>
 </table>
 <br>
+## 1.3	**Management and Technical Approaches**
 
-## 1.3 **Project Management Process Plans**
-### 1.3.1 **Project Initiation**
+### 1.3.1 **Objective:** 
+Deliver the product within the time and of high quality. The Project Manager and Quality Specialist team together monitor the project to achieve this by respectively checking that progress is made as planned and monitoring the quality of the website at various stages
+
+A group of four members will be working on this project. Additional resources will be hired for certain duration to complete the project. 
+
+The deadline of project is 9th September 2018, Additional requirement from the client may reflect on the deadline and duration of the product.
+
+### 1.3.2 **Risk management**
+
+This section mentions any potential risks for the project. Also, schedules or methods are defined to prevent or to reduce the risks as below:
+
+i.	Technology risk
+ii.	People risk
+iii.	Structure/process risk
+Project Staffing: 
+
+Type of people required for this project:
+
+1.	Web application developer both Front and back end
+2.	Database developer
+3.	Content developer
+4.	User Interface developer
+5.	Quality specialists
+
+Monitoring and controlling mechanisms 
+
+The monitoring of progress is done by following :
+
+i.	Weekly project status meetings 
+ii.	Shared document repository
+iii.	Project tracking by Project Libre project plan
+iv.	Tracking utilizing baselines in Project Libre project
+
+### 1.3.3 **Technical Processes:**
+Methods, Tools and Techniques: 
+Project will be implemented using the Agile process methodology, tools such as Visual code, Project libre, HTML, CSS, Bootstrap, MySQL and GIT Shared repository.
+
+
+## 1.4 **Project Management Process Plans**
+### 1.4.1 **Project Initiation**
  Project Initiation processes, documentation, and deliverables,for example the Project Charter is the main deliverable of Project Initiation and the Kickoff Meeting is the initial Project Team meeting. 
-### 1.3.2 **Project Planning**
+### 1.4.2 **Project Planning**
  Project Initiation & Planning processes, documentation, and deliverables, for example the Project Charter is the main deliverable of Project Initiation and the Kickoff Meeting is the initial Project Team meeting
-### 1.3.3 **Project Execution**
+### 1.4.3 **Project Execution**
  Project Execution processes, documentation, and deliverables,for example the Project Scheduler is the main deliverable of the Project
 Execution. 
-### 1.3.4 **Project Monitoring and Control**
+### 1.4.4 **Project Monitoring and Control**
 Project Monitoring & Control processes, documentation, and deliverables, for example the Project Performance Measurement is a primary
 project monitoring & control activity.
-### 1.3.1 **Project Closing**
+### 1.4.5 **Project Closing**
 Project Closure processes, documentation, and deliverables, for example the Final Acceptance (of the project deliverable) is a primary
 Project Closure milestone.
-## 1.4 **Project Specific and Project Supporting Plans**
+## 1.5 **Project Specific and Project Supporting Plans**
 - Project Management Plan specifies the project-specific process,for this unique project. This section defines the underlying processes, the project management methodology, the infrastructure for this project, and the agreed-to criteria for project acceptance.
 -  configuration management of the work products; verification and validation steps and approach;project documentation; project quality assurance; project reviews and audits;problem resolution; and the selection and management of the project subcontractors
 
