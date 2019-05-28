@@ -22,7 +22,7 @@
 <tr><td> 2.5 </th><td> Developing Project Plan </th><td> The Plan that has the project overview or how the project execution goes on </td></tr> 
 <tr><td> 2.6 </th><td> Submitting Project Plan to Sponsor</th><td> After devoloping a plan the project plan should be submitted to the sponsor for the sponsor</td></tr> 
 <tr><td> 2.7 </th><td> Approval from Sponsor </th><td> Sponsor should give approval to pass through the planning stage and go into Execution stage  </td></tr>
-<tr><td> 2.8 </th><td> Software </th><td> Software used for building the application </td></tr>
+<tr><td> 2.8 </th><td> Software </th><td>  Software used for building the application </td></tr>
 <tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
 <tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
 <tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
