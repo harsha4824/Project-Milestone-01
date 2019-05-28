@@ -531,7 +531,10 @@ The product must be delivered to client without any delay. The Product must meet
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) **Gantt Chart**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link for Gantt Chart:
 
+#### Project libre file
 - [&nbsp;&nbsp;&nbsp;Gannt Chart](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Gann_chart.pod)
+
+#### Please download the image before viewing
 -  ![Logo](https://raw.githubusercontent.com/chaturkurma/Project-Milestone-01/master/gant_chart_image.jpg)
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Scheduling Sprints**
