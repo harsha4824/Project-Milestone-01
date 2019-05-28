@@ -473,15 +473,15 @@ Project Closure milestone.
 <h4>Prepared by:</h4> Chatur Veda Vyas Kurma
  <table>
  <tr> <th>WBS items</th>   <th> #Units/hr</th>  <th>Cost/Unit/Hr</th>  <th>WBS Level 1 Totals</th>   <th>% of Total</th>
- <tr> <td><h4> Project Management </h4> </td><td>      </td><td>            </td><td>       $ 2,01,480   </td><td>             </td> 
+ <tr> <td><h4> Project Management </h4> </td><td>      </td><td>            </td><td>       $ 2,01,480   </td><td>  38.11 %       </td> 
   <tr> <td>Project Manager</td><td>   630      </td><td> $ 180  </td><td> $ 1,13,400</td><td>             </td> 
   <tr> <td> Project Team Members</td><td> 800 </td><td>$ 110</td><td> $ 88,000</td><td>             </td>
  
  <tr> <td>Design and vision </td><td> 8         </td><td>    $ 10       </td><td> $ 80 </td><td>             </td>
- <tr> <td>   <h4> Hardware </h4>      </td><td>         </td><td>            </td><td>  $ 39,500 </td><td>             </td> 
+ <tr> <td>   <h4> Hardware </h4>      </td><td>         </td><td>            </td><td>  $ 39,500 </td><td>  7.52 % </td> 
  <tr> <td>  Laptops    </td><td>   20      </td><td>$ 25        </td><td>   $ 500         </td><td>             </td> 
  <tr> <td>Database Server </td><td>  52    </td><td> $ 750    </td><td>     $ 39,000      </td><td>             </td> 
- <tr> <td> <h4>  Software </h4>       </td><td>         </td><td>            </td><td>    </td><td>             </td> 
+ <tr> <td> <h4>  Software </h4>       </td><td>         </td><td>            </td><td>  $ 25,968  </td><td>  4.94%   </td> 
  <tr> <td> Software Licensed Version </td><td> 24 </td><td> $ 36 </td><td> $ 864      </td><td>             </td> 
  <tr> <td>  Online Server </td><td>  48 </td><td>$ 320  </td><td> $ 15,360 </td><td>             </td> 
  <tr> <td>  Software Application</td><td> 30</td><td> $ 320 </td><td> $ 9,600 </td><td>             </td> 
@@ -493,8 +493,8 @@ Project Closure milestone.
  <tr> <td>  Database Design</td><td>30</td><td>$ 400  </td><td> $ 12,000 </td><td>             </td>  
  <tr> <td>  <h4> Testing  </h4></td><td>  </td><td>            </td><td>  $ 1,80,000 </td><td>             </td> 
 <tr> <td> <h4> Travel Cost </h4></td><td> 15</td><td>$ 970</td><td> $ 14,550</td><td>             </td> 
- <tr> <td>     <h4>Reserves(20% of total estimate)</h4)      </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
-  <tr> <td>  <h4>  Total Project Cost Estimate   </h4>    </td><td>         </td><td>            </td><td>                        </td><td>             </td> 
+ <tr> <td>     <h4>Reserves(20% of total estimate)</h4)      </td><td>         </td><td> </td><td> $ 1,68,000</td><td>             </td> 
+  <tr> <td>  <h4>  Total Project Cost Estimate   </h4>    </td><td>         </td><td>            </td><td>  </td><td>  </td> 
    
  
  
