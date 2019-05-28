@@ -2,7 +2,7 @@
 | &emsp;&emsp;&emsp; **GOAL/OBJECTIVE** &emsp;&emsp;&emsp;  | &emsp;&emsp;&emsp;  **USERS/CUSTOMERS** &emsp;&emsp;&emsp; |
 | ------------------------------------- | ---------------------------------------------------------------------------|
 | What are you trying to validate with this MVP? | Who are the users who benefit from this product? Who are you going to test it with? |
-| yfiuhiooooooooooooooooooooooooooooooooooooo| uoiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiio|
+| Now a Days most of the people are trying out <br> with the online quiz apps for the <br> preparation, so we are validating the Quiz <br>Application which is useful for the Students <br> for there education. | uoiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiio|
 
 | &emsp;&emsp;&emsp; **HYPOTHESIS / ASSUMPTION** &emsp;&emsp; | &emsp;&emsp;&emsp;  **WE ARE RIGHT IF...** &emsp;&emsp;&emsp; |
 |----------------------------------------------------------------------|---------------------------------------------------------|
