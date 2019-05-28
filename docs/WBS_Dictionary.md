@@ -23,23 +23,23 @@
 <tr><td> 2.6 </th><td> Submitting Project Plan to Sponsor</th><td> After devoloping a plan the project plan should be submitted to the sponsor for the sponsor</td></tr> 
 <tr><td> 2.7 </th><td> Approval from Sponsor </th><td> Sponsor should give approval to pass through the planning stage and go into Execution stage  </td></tr>
 <tr><td> 2.8 </th><td> Software </th><td>  Software used for building the application </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
+<tr><td> 2.8.1 </th><td> Software Licensed Version </th><td> All the workers should have a latest version License </td></tr>
+<tr><td> 2.8.2 </th><td> Online Server </th><td> online server should be created for communication and application progress </td></tr>
+<tr><td> 2.8.3 </th><td> Software Application </th><td> All required applications must be equiped</td></tr>
+<tr><td> 2.8.4 </th><td>JIRAk </th><td> for Scrum </td></tr>
+<tr><td> 2.9 </th><td> Cost Analysis  </th><td> A proper estimation of cost should be made to complete the project </td></tr>
+<tr><td> 2.10</th><td> Risk Assessment </th><td> Aware of the risks arise as project continues </td></tr>
+<tr><td> 2.11 </th><td> Technology </th><td> Required technology should be learned </td></tr>
+<tr><td> 2.12 </th><td> Project Management Plan </th><td> Document to Manage all the project plans </td></tr>
+<tr><td> 2.13 </th><td> Cost Management Plan </th><td> Document to manage Project cost plans </td></tr>
+<tr><td> 3 </th><td> EXECUTING </th><td> Implementation of the Project </td></tr>
+<tr><td> 3.1 </th><td> Creating Quiz Application </th><td> We are Creating the Quiz Application for students </td></tr>
+<tr><td> 3.2 </th><td> Daily Scrum Meeting  </th><td> Discussion with the Project owner</td></tr>
+<tr><td> 3.3 </th><td> Creating Login Page  </th><td> To login the Quiz application user must  login</td></tr>
+<tr><td> 3.3.1 </th><td> Existing User </th><td> User logins withe the provided login id and password </td></tr>
+<tr><td> 3.3.2 </th><td> New User </th><td> New user must Create the account for login credentials </td></tr>
+<tr><td> 3.4 </th><td> Generating User Id and Password   </th><td> each user is provided with unique login id and password</td></tr>
+<tr><td> 3.5 </th><td> Testing and Analysing Login Page  </th><td>  </td></tr>
 <tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
 <tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
 <tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
