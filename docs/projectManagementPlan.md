@@ -490,8 +490,9 @@ Project Closure milestone.
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Scope Statement**
 ## **Project Title:**
-A Guide to Project Management                                           
-**Date:** 5/23/2018		                           **Prepared by:** VenkataSandeep Katrevula
+A Guide to Project Management    <br>                                       
+**Date:** 5/23/2018		      
+**Prepared by:** VenkataSandeep Katrevula <br>
 Project Justification: Northwest Missouri State University is a public university in Maryville, Missouri which focus on the student success. This university Professor Dr. Denise Case has who takes the classes for various courses. Client asked us to work on a web portal which helps the students to learn the Project Management in Business and Technology course. Our team going to work on this website aiming Northwest Missouri State University students to understand process of the Project Management. The web portal also has the functionality that enables students to create personal account and able to listen the video lecture, Analyze the different case studies. In addition to these, students are able to take the quizzes, this also provides the performance analytics for each student based on their performance. Student score board displays names of top members and discussion board available for students
 ### **Product Characteristics and Requirements:**
 1.	The website must be a user-friendly application
