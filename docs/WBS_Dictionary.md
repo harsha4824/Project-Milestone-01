@@ -39,48 +39,17 @@
 <tr><td> 3.3.1 </th><td> Existing User </th><td> User logins withe the provided login id and password </td></tr>
 <tr><td> 3.3.2 </th><td> New User </th><td> New user must Create the account for login credentials </td></tr>
 <tr><td> 3.4 </th><td> Generating User Id and Password   </th><td> each user is provided with unique login id and password</td></tr>
-<tr><td> 3.5 </th><td> Testing and Analysing Login Page  </th><td>  </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
+<tr><td> 3.5 </th><td> Testing and Analysing Login Page  </th><td>testing the login pa  </td></tr>
+<tr><td> 3.6 </th><td>Save Login page Directory</th><td>To login details of the user </td></tr>
+<tr><td> 3.7 </th><td>New user registration Page </th><td> describe </td></tr>
+<tr><td> 3.8 </th><td>Selecting the course </th><td> describe </td></tr>
+<tr><td> 4 </th><td> Monitoring and Control  </th><td> To monitor and control the project </td></tr>
+<tr><td> 4.1 </th><td>  Tracking the performance of each Employee </th><td> To track track the performance of the Project </td></tr>
+<tr><td> 4.2 </th><td> Resolving the issues </th><td> To track and resolve issues </td></tr>
+<tr><td> 5 </th><td>Submitting Project to the Sponsorer  </th><td>submitting the product to the sponsor </td></tr>
+<tr><td> 5.1 </th><td> Getting Project Approval </th><td> approval of the project </td></tr>
 
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
 
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
-<tr><td> 1.3.1 </th><td> Task </th><td> describe </td></tr>
 
 
 
