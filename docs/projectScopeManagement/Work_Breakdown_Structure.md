@@ -54,7 +54,7 @@ Chatur Veda Vyas Kurma
 | |2.12|Submitting Project Plan to Sponsor| |1 day|Project Manager|
 | |2.13|Approval from Sponsor|            |2 daya|            |
 |       |          |Execution  |           |      |            |
-|3      | 3        |Creating the Application|34 days|Project Team Members|
+|3      | 3        |Creating the Application | |34 days|Project Team Members|
 | |3.1|Content Developing and Writing|     |4 days|            |
 | |3.2|Creating dummy data for testing|    |1 days|            |
 | |3.3|Video lectures|                     |2 days|            |
@@ -90,7 +90,7 @@ Chatur Veda Vyas Kurma
 | |3.23|Log out|                            |1 day|            |
 |       |          |MONITORING AND CONTROL |      |            |
 |4      |4  | Testing|                     |12 days| Web Developer      |
-| |4.1|Tracking the performance of each user|7 days|           |
+| |4.1|Tracking the performance of each user |  |7 days|           |
 | |4.2|Detecting the issues|               |1 day |            |
 | |4.3|Resolving the issues|               |2 day |            |
 | |4.4|Tracking the Employee Contribution| |1 day |            |
