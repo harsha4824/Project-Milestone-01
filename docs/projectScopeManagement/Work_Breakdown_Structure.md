@@ -100,7 +100,7 @@ Chatur Veda Vyas Kurma
 
 - [Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/edit/master/docs/WBS.jpg)
 ## Work Breakdown Structure Dictionary Link:
-- [Work Breakdown Structure Ditionary](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/WBS_Dictionary.md)
+- [Work Breakdown Structure Ditionary](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/projectScopeManagement/WBS_Dictionary.md)
 <br>
 <br>
 <br>
