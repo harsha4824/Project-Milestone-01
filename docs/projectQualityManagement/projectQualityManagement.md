@@ -8,17 +8,17 @@
 
 <p>Project quality management involves three main processes:</p>
 
-1. <h3>Planning quality management: </h3>
+ <h3>1.Planning quality management: </h3>
 
 
 The main outputs of planning quality management are a quality management plan, a process improvement plan, quality metrics, quality checklists, and project documents updates.
 
-1. <h3>Performing quality assurance</h3>
+ <h3>1.Performing quality assurance</h3>
 
 
 The main outputs of this process are change requests, project management plan updates, project documents updates, and organizational process asset updates.
 
-1.  <h3>Controlling quality involves</h3>
+  <h3>1.Controlling quality involves</h3>
 
 
 <p> The main outputs of quality control include quality control measurements, validated changes, validated deliverables, work performance information, change requests, project management
