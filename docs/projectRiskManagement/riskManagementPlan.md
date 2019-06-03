@@ -104,14 +104,7 @@ Potential response: The project team adopts a feature-driven approach in develop
 <h2>Risk mitigation strategies</h2>
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 12px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 12px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-z9od{font-size:12px;text-align:left;vertical-align:top}
-.tg .tg-5aep{font-weight:bold;font-size:14px;font-family:"Times New Roman", Times, serif !important;;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-na3a{font-weight:bold;font-size:14px;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
   <tr>
     <th class="tg-5aep">Risk Rank</th>
