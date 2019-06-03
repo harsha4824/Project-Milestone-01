@@ -57,7 +57,7 @@
  -  10 percent of Variance allowed. 
  
  <h4>Project Cost Estimation Table </h4>
-<h4>Prepared by:</h4> Chatur Veda Vyas Kurma
+<h4>Prepared by:</h4> Chatur Veda Vyas Kurma 
  <table>
  <tr> <th>WBS items</th>   <th> #Units/hr</th>  <th>Cost/Unit/Hr</th>  <th>WBS Level 1 Totals</th>   <th>% of Total</th>
  <tr> <td><h4> Project Management </h4> </td><td>      </td><td>            </td><td>       $ 2,01,480   </td><td>  29 %      </td> 
