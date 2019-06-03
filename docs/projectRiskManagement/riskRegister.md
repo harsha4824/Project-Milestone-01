@@ -1,16 +1,4 @@
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 13px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 13px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-bxch{font-weight:bold;font-size:14px;font-family:"Times New Roman", Times, serif !important;;text-align:left}
-.tg .tg-9p4m{font-weight:bold;font-size:14px;font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
-.tg .tg-s268{text-align:left}
-.tg .tg-5ua9{font-weight:bold;text-align:left}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-7fv0{font-family:"Times New Roman", Times, serif !important;;text-align:left}
-.tg .tg-fia5{font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
   <tr>
     <th class="tg-s268"></th>
