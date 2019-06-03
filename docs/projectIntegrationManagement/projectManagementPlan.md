@@ -520,9 +520,9 @@ The product must be delivered to client without any delay. The Product must meet
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Work Breakdown Structure**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;  Link for Work Breakdown Structure:
-- [&emsp; Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/Work_Breakdown_Structure.md)<br>
+- [&emsp; Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/projectScopeManagement/Work_Breakdown_Structure.md)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  Link for Work Breakdown Structure Dictionary:
-- [&emsp; WBS Dictionary](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/WBS_Dictionary.md)
+- [&emsp; WBS Dictionary](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/projectScopeManagement/WBS_Dictionary.md)
 
 
 # 4. **Project Schedule Management**
