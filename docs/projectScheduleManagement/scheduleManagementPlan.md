@@ -13,3 +13,14 @@
 <h2>Schedule Monitoring</h2>
 
 <p>Project team members will report task progress on daily basis to the Project Manager. The Project Scheduler will update the project schedule with daily actuals of team member effort and inform the Project Manager of the overall condition of the project schedule in terms of variance from planned. The Project Scheduler will also report on positive or negative trends regarding schedule performance. </p>
+
+
+<h2>Schedule Controlling</h2>
+
+
+The Critical Path Method will be used for schedule control. The Project Manager will review the critical path:
+1.  Monthly
+1.  When a new baseline is required
+1.  When entering a new project phase
+1.  When mitigating schedule-related risks
+1.  As needed to ensure the critical path is maintained
