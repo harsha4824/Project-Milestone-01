@@ -46,7 +46,7 @@ Following we have Determined the process we have followed while identifying the 
 
 The top three high probability and high impact risks to this project are:
 
-<h3>1.  Huge change requests late in the project</h3>
+1.  <h3>Huge change requests late in the project</h3>
 
 
 <p>If stakeholders decide to add to the original functional and design requirements or make major changes to the way parts of the site is programmed/designed to function, it will result in delaying the project’s expected delivery and may even require a major overhaul of the website.</p>
@@ -55,36 +55,36 @@ The top three high probability and high impact risks to this project are:
 
 
 
-<h3>1.  Misunderstanding of the external team resources</h3>
+1.  <h3>Misunderstanding of the external team resources</h3>
 
 <p>Content of the website will be created by the vendor. If the content developer delays the content than anticipated time. Project is going to get delayed until we receive the content and upload content into the database. Specifically, the videos and quiz questions material. If the content is not developed as per our requirement, the vendor may have to rework on that. Reworking on content is direct impacts on the project schedule.</p>
 
 
-<h4>1.  Potential response:</h4>   By arranging the meeting times early with the content developing team and continuous monitoring over the content development and frequent meetings with vendors will helps. 
+<h4>Potential response:</h4>   By arranging the meeting times early with the content developing team and continuous monitoring over the content development and frequent meetings with vendors will helps. 
 
 <h3>Lack of stakeholders’ involvement</h3>
 
 <p>As the website is to provide specific functionalities and constructed with the latest web design trends, stakeholders’ involvement is crucial to the project team’s requirements analysis before the construction of the website. With the lack of stakeholders’ involvement, the project will not be able to finish on time and may fall short of the required project scope. </p>
 
-<h4>1.  Potential response:</h4>   The project sponsor is actively involved, and a clear communications plan will enable project team to speak to the right stakeholder with the right communication medium. On top of that, a weekly team meeting will surface any major errors in the project.
+<h4>Potential response:</h4>   The project sponsor is actively involved, and a clear communications plan will enable project team to speak to the right stakeholder with the right communication medium. On top of that, a weekly team meeting will surface any major errors in the project.
 
 
 
 <h2> Other Possible Risks </h2>
 
-<h3>1.  Overestimating project team’s abilities</h3>
+1.  <h3>Overestimating project team’s abilities</h3>
 
 
 <p>This will result in underestimating the project’s timeline and thus impact the project’s performance.</p>
 
 <p>Potential response: Buffer time had been factored into the project and time consuming or content heavy software development modules had been outsourced to open-source or commercial software such as forum and community page content management.</p>
 
-<h3>Unexpected software abnormalities (“bugs”)</h3>
+1.  <h3>Unexpected software abnormalities (“bugs”)</h3>
 
 
 <p>Project team unable to discover or resolve software abnormalities in time will cause these abnormalities to escalate as the website develops further. This will pose a threat to the website’s completion being delayed or even cause the website to undergo over haul. These software abnormalities could be caused by human errors, hardware and software incompatibility or found in the development tools used by the project team.</p>
 
-<h4>1.  Potential response:</h4>    The project team has two good programmers. Moreover, If any problem arise while working will reach out to third party consultant to resolve that problem with put any delay. Lastly, according to our budget forecast, the project team has ample amount of budget to seek external senior programmers if needed.
+1.  <h4>Potential response:</h4>    The project team has two good programmers. Moreover, If any problem arise while working will reach out to third party consultant to resolve that problem with put any delay. Lastly, according to our budget forecast, the project team has ample amount of budget to seek external senior programmers if needed.
 
 <h3>Key project team member sick/urgent leave/quits</h3>
 
@@ -93,7 +93,7 @@ The top three high probability and high impact risks to this project are:
 
 <h4>Potential response:</h4>     <p>Adequate buffer time had been added into the project’s schedule and fortunately by 6 weeks into the project, other programmers should be freed up to assist. If not, according to our budget forecast, the project team has ample amount of budget to seek external senior programmers if needed.</p>
 
-<h3>1.  Over-emphasis on low priority details</h3>
+1.  <h3>Over-emphasis on low priority details</h3>
 
 
 <p>Requirements for the website should be identified as being Low Priority and High Priority. Low Priority requirements are website details that can easily be changed, or "would be nice to have" if time and budget allows. High priority requirements are time-consuming, difficult to change and is a "must have". A delay will happen if project team fixates on low priority requirements, for example spending too much time on the colors of a certain web page.
