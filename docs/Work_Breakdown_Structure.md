@@ -23,10 +23,8 @@ Chatur Veda Vyas Kurma
 
 | Level | WBS Code | Task Name | Resources | Time | Assigned to|
 |-------|----------|-----------|-----------|------|------------|
-
 |       |          |Initiation |           |      |Project Management|
 | 1   | 1  | Project Management|           |8 days|            |
-
 | |1.1|Appointing the Project Manager|     |1 day |            |
 | |1.2|Identifying Stake Holders|          |1 day |            |
 | |1.3|Identifying the Resources |         |1 day |            |
