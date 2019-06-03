@@ -27,7 +27,7 @@
 <p>The Team Lead is designated to be responsible for ensuring that all aspects of the project are addressed and that the project is implemented in a technically sound manner. The Team Lead is responsible for all technical designs, overseeing the implementation of the designs and developing as-build documentation. The Team Lead requires close communications with the Project Manager and the Project Team.</p>
 
 
-<h3>Web developer</h3>
+-  <h3>Web developer</h3>
 
 
 <p>The Web developer is responsible for designing, coding and modifying websites, from layout to function and according to a client's specifications. Strive to create visually appealing sites that feature user-friendly design and clear navigation.</p>
