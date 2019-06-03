@@ -73,11 +73,11 @@ plan updates, project documents updates, and organizational process asset update
 <p>The quality expectations for the technical analysis will be assessed by answering each of the
 following questions:</p>
 
-<p>Do the technical analysis results compare favorably with the known results from the example datasets?</p>
+1.  Do the technical analysis results compare favorably with the known results from the example datasets?</p>
 
-<p>Are assumptions and limitations described in such a way that the end user can make intelligent decisions regarding usage?</p>
+1.  Are assumptions and limitations described in such a way that the end user can make intelligent decisions regarding usage?</p>
 
-<p>Do you have another comments on the technical methods found in GPM?</p>
+1.  Do you have another comments on the technical methods found in GPM?</p>
 
 <h3>User Interface</h3>
 
