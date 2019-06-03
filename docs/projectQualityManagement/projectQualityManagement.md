@@ -52,7 +52,7 @@ plan updates, project documents updates, and organizational process asset update
 
 1.  Do you have any other comments on the technical guidance found in GPM ?
 
-<h2>Databases</h2>
+<h3>Databases</h3>
 
 <p>The quality objective for the database searches is to produce accurate and expected results. Search results are presented in a form that meets the user’s information needs. Databases for . GPM will be managed by MySQL. Database queries will be performed using MySQL queries Java or Javascript. Quiz question and and videos will be presented in the user's browsers in an HTML table</p>
 
@@ -64,7 +64,7 @@ plan updates, project documents updates, and organizational process asset update
 1.  Are hyperlinks in the results table active and appropriate?
 1.  Do you have any other comments on the databases found in GPM?
 
-<h2>Technical Analysis:</h2>
+<h3>Technical Analysis:</h3>
 
 <p>The quality objective for the technical computations is to produce accurate and expected results.</p>
 
@@ -79,7 +79,7 @@ following questions:</p>
 
 <p>Do you have another comments on the technical methods found in GPM?</p>
 
-<h2>User Interface</h2>
+<h3>User Interface</h3>
 
 <p>The quality objective for the user interface is to provide an intuitive, user-friendly user interface that accurately generates input arguments for analysis functions. </p>
 
