@@ -268,19 +268,19 @@ The human resources management plan includes:
 <p>Assumptions Common to Managers in Organizations Using the Human Relations Model:</p>
 
 
-1  Employee satisfaction is the key to productivity and quality
-1  Open supportive communication enhances satisfaction
-1  Meeting the individual needs of employees is a key goal of management
-1  Managers need to pay close attention to building good relationships on the job
-1  Employees will be motivated to do good work if the work environment permits it.
+1.  Employee satisfaction is the key to productivity and quality
+1.  Open supportive communication enhances satisfaction
+1.  Meeting the individual needs of employees is a key goal of management
+1.  Managers need to pay close attention to building good relationships on the job
+1.  Employees will be motivated to do good work if the work environment permits it.
 
 <h3>Keys to Good Human Relations/Resources in the Organization</h3>
 
 
-1  Good Communication - redundancy, informal networks, few barriers
-1  Clear Performance Goals facilitated with feedback, quick and specific
-1  Meaningful Rewards linked to performance
-1  and a Culture (esp. at mid and upper levels) 
+1.  Good Communication - redundancy, informal networks, few barriers
+1.  Clear Performance Goals facilitated with feedback, quick and specific
+1.  Meaningful Rewards linked to performance
+1.  and a Culture (esp. at mid and upper levels) 
 
 ## Resource Risk and Mitigation Strategies
 
