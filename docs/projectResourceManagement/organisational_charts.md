@@ -17,12 +17,12 @@
 # Responsibility Assignment Matrix
 
 
-|Tasks  |  Venkatasandeep Katrevula    | Sai Kiran Doddapaneni    |  Chatur Veda Vyas Kurma          |  Harsha Vardhan Reddy Nallavolu |      | ----------|----------        |-----------|------------|-----|
+|Tasks  |  Venkatasandeep Katrevula    | Sai Kiran Doddapaneni    |  Chatur Veda Vyas Kurma |  Harsha Vardhan Reddy Nallavolu |  
+| ----------|------------|-----------|------------|-----|
 |Managing the project  |  R     |  A  |       A     |      A     |       
 |Planning and Scheduling  |  Q    |  R  |     A       |           | 
 |Stakeholder Analysis |  I    |  C   |  R          |  Q         |
-|Risk Management  |    A  | R   | Q           |           |         
-         
+|Risk Management  |    A  | R   | Q           |           |                
 |Team meetings  |   C   | R   |   A         |           |         
 | Procurment |  R    | A   |     Q       |           |  
 |Quality |  I    |  A   |  R          |          |
