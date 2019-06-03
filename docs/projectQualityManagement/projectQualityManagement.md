@@ -40,17 +40,17 @@ plan updates, project documents updates, and organizational process asset update
 
 <p>Affirmative answers to the following table of questions should ensure that quality objectives are met.</p>
 
-1  Does the content use consistent and standard technical terminology?
+1.  Does the content use consistent and standard technical terminology?
 
-1  Does the guidance present appropriate interpretation of Management concepts?
+1.  Does the guidance present appropriate interpretation of Management concepts?
 
-1  Is user interface easy to accessible to everyone?
+1.  Is user interface easy to accessible to everyone?
 
-1  Is key mythology explained adequately for the purpose and reaching expectation of the website?
+1.  Is key mythology explained adequately for the purpose and reaching expectation of the website?
 
-1  Is the website user friendly?
+1.  Is the website user friendly?
 
-1  Do you have any other comments on the technical guidance found in GPM ?
+1.  Do you have any other comments on the technical guidance found in GPM ?
 
 <h3>Databases</h3>
 
@@ -58,11 +58,11 @@ plan updates, project documents updates, and organizational process asset update
 
 <p>The quality expectations of the databases will be assessed by answering each of the following questions:</p>
 
-1  Are the database search results appropriate and accurate given the user input?
-1  Do the database search results appear to be comprehensive given the database disclaimer?
-1  Is the presentation of results user friendly?
-1  Are hyperlinks in the results table active and appropriate?
-1  Do you have any other comments on the databases found in GPM?
+1.  Are the database search results appropriate and accurate given the user input?
+1.  Do the database search results appear to be comprehensive given the database disclaimer?
+1.  Is the presentation of results user friendly?
+1.  Are hyperlinks in the results table active and appropriate?
+1.  Do you have any other comments on the databases found in GPM?
 
 
 
