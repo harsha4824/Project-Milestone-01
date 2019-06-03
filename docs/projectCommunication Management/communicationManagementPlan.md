@@ -48,4 +48,49 @@ Contact Information Directory</p>
 
 <p>The following table presents contact information for all persons identified in this communications management plan. The email addresses and phone numbers in this table will be used to communicate with these people.</p>
 
+<table class="tg">
+  <tr>
+    <th class="tg-bxch">Role</th>
+    <th class="tg-bxch">Name</th>
+    <th class="tg-bxch">Email</th>
+    <th class="tg-bxch">Phone</th>
+  </tr>
+  <tr>
+    <td class="tg-xqhu">Project Sponsor</td>
+    <td class="tg-xqhu">Dr. Case</td>
+    <td class="tg-xqhu">dcase@nwmissouri.edu</td>
+    <td class="tg-xqhu">0000000000</td>
+  </tr>
+  <tr>
+    <td class="tg-xqhu">Project Manager</td>
+    <td class="tg-xqhu">Venkatasandeep Katrevula</td>
+    <td class="tg-xqhu">S534965@nwmissouri.edu</td>
+    <td class="tg-xqhu">6605280106</td>
+  </tr>
+  <tr>
+    <td class="tg-xqhu">Team Lead/Web programmer</td>
+    <td class="tg-xqhu">Sai Kiran Doddapaneni</td>
+    <td class="tg-xqhu">s534736@nwmissouri.edu</td>
+    <td class="tg-xqhu">9842393104</td>
+  </tr>
+  <tr>
+    <td class="tg-xqhu">Web Developer</td>
+    <td class="tg-xqhu">Chatur Veda Vyas Kurma</td>
+    <td class="tg-xqhu">s534687@nwmissouri.edu</td>
+    <td class="tg-xqhu">6364979545</td>
+  </tr>
+  <tr>
+    <td class="tg-xqhu">Content Developer</td>
+    <td class="tg-xqhu">Harsha Vardhan Reddy Nallavolu</td>
+    <td class="tg-xqhu">S534688@nwmissouri.edu</td>
+    <td class="tg-xqhu">5835482304</td>
+  </tr>
+  <tr>
+    <td class="tg-xqhu">Customer</td>
+    <td class="tg-xqhu"></td>
+    <td class="tg-xqhu"></td>
+    <td class="tg-xqhu"></td>
+  </tr>
+</table>
+
 
