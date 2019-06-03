@@ -34,7 +34,7 @@ Chatur Veda Vyas Kurma
 | |1.7|Approving the project|              |1 day |            |
 |       |          |Planning   |           |      |            |
 |2 |2 |Project Plan Preparation|           |   43.5 days   |Project Manager|            |
-| |2.1|Resource Availability|           |2 |            |
+| |2.1|Resource Availability|           |2 days |            |
 | |2.2|Developing Scope Statement|         |3 days|  Project Manager         |
 |       |2.3       |Hardware   |           |7.125 days|        |
 |       |2.3.1 |Laptops|                   |0.125 days|        |
