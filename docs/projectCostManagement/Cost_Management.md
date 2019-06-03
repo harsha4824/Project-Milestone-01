@@ -57,36 +57,169 @@
  -  10 percent of Variance allowed. 
  
  <h4>Project Cost Estimation Table </h4>
-<h4>Prepared by:</h4>   Chatur Veda Vyas Kurma 
+<h4>Prepared by:  VenkataSandeep Katrevula</h4>   
  
- 
- <table>
- <tr> <th>WBS items</th>   <th> #Units/hr</th>  <th>Cost/Unit/Hr</th>  <th>WBS Level 1 Totals</th>   <th>% of Total</th>
- <tr> <td><h4> Project Management </h4> </td><td>      </td><td>            </td><td>       $ 2,76,500   </td><td>  36 %      </td> 
-  <tr> <td>Project Manager</td><td>   500      </td><td> $ 180  </td><td> $ 90,000</td><td>             </td> 
-  <tr> <td> Project Team Members</td><td> 600 </td><td>$ 170</td><td> $ 1,02,000</td><td>             </td>
- 
- <tr> <td>Design and vision </td><td> 650   </td><td>    $ 130       </td><td> $ 84,500 </td><td>             </td>
- <tr> <td>   <h4> Hardware </h4>      </td><td>         </td><td>            </td><td>  $ 39,500 </td><td>  5 % </td> 
- <tr> <td>  Laptops    </td><td>   20      </td><td>$ 25        </td><td>   $ 500         </td><td>             </td> 
- <tr> <td>Database Server </td><td>  52    </td><td> $ 750    </td><td>     $ 39,000      </td><td>             </td> 
- <tr> <td> <h4>  Software </h4>       </td><td>         </td><td>            </td><td>  $ 25,968  </td><td>  3 %   </td> 
- <tr> <td> Software Licensed Version </td><td> 24 </td><td> $ 36 </td><td> $ 864      </td><td>             </td> 
- <tr> <td>  Online Server </td><td>  48 </td><td>$ 320  </td><td> $ 15,360 </td><td>             </td> 
- <tr> <td>  Software Application</td><td> 30</td><td> $ 320 </td><td> $ 9,600 </td><td>             </td> 
- <tr> <td>    JIRA </td><td>  12       </td><td>  $ 12 </td><td>$ 144              </td><td>             </td> 
-<tr> <td><h4> Technology</h4></td><td>  60</td><td>$ 300</td><td>$ 18,000 </td><td>      2 %</td>
-<tr> <td><h4>Content Developing and Writing</h4></td><td>200</td><td>$ 300</td><td>$ 60,000 </td><td>    7.8 %</td> 
-<tr> <td> <h4>Creating dummy data for testing</h4></td><td> 40</td><td>$ 100</td><td> $ 4,000 </td><td> 0.5 %   </td> 
-<tr> <td> <h4>User interface Design </h4> </td><td> 50</td><td> $ 350</td><td> $ 17,500 </td><td>       2.3 %</td> 
-<tr> <td>  <h4>Database Design</h4></td><td>30</td><td>$ 400  </td><td> $ 12,000 </td><td>        1.5 %</td>  
- <tr> <td>  <h4> Testing  </h4></td><td>  </td><td>            </td><td>  $ 70,000 </td><td>     8 %</td> 
-<tr> <td> <h4> Travel Cost </h4></td><td> 15</td><td>$ 970</td><td> $ 14,550 </td><td>       1.9 %</td> 
- <tr> <td>     <h4>Reserves(35% of total estimate)</h4>      </td><td>         </td><td> </td><td> $ 2,62,000</td><td>  34 % </td> 
-  <tr> <td>  <h4>  Total Project Cost Estimate </h4>    </td><td>         </td><td>            </td><td> $ </td><td> 100 % </td> 
-   
- 
- 
- 
- 
- </table>
+
+<table class="tg">
+  <tr>
+    <th class="tg-amwm">WBS items</th>
+    <th class="tg-amwm">#Units/hr.</th>
+    <th class="tg-amwm">$Cost/Unit/Hr.</th>
+    <th class="tg-amwm">WBS Level 1 Totals</th>
+    <th class="tg-amwm">% of Total</th>
+  </tr>
+  <tr>
+    <td class="tg-8zwo">Project Management total Cost</td>
+    <td class="tg-baqh">$220,500</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">43.25</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Project Manager</td>
+    <td class="tg-baqh">800</td>
+    <td class="tg-baqh">$90</td>
+    <td class="tg-baqh">$72,000</td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Project Team Members</td>
+    <td class="tg-baqh">2400</td>
+    <td class="tg-baqh">$60</td>
+    <td class="tg-baqh">$144,000</td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Design and vision</td>
+    <td class="tg-baqh">30</td>
+    <td class="tg-baqh">$150</td>
+    <td class="tg-baqh">$4,500</td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-8zwo">Hardware total Cost</td>
+    <td class="tg-baqh">$30,000</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">5.88</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Laptops</td>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">$2,000</td>
+    <td class="tg-baqh">$20,000</td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Database Server</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">$10,000</td>
+    <td class="tg-baqh">$10,000</td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-8zwo">Software total Cost</td>
+    <td class="tg-baqh">$57,600</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">11.30</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Software Licensed Version</td>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">$1,000</td>
+    <td class="tg-baqh">$10,000</td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Online Server</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">$8,000</td>
+    <td class="tg-baqh">$8,000</td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Software Application</td>
+    <td class="tg-baqh">30</td>
+    <td class="tg-baqh">$320</td>
+    <td class="tg-baqh">$9,600</td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">JIRA number of Users</td>
+    <td class="tg-baqh">12</td>
+    <td class="tg-baqh">$1,000</td>
+    <td class="tg-baqh">$12,000</td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Technology</td>
+    <td class="tg-baqh">60</td>
+    <td class="tg-baqh">$300</td>
+    <td class="tg-baqh">$18,000</td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Content Developing and Writing</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">$8,000</td>
+    <td class="tg-baqh">$8,000</td>
+    <td class="tg-baqh">1.57</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Creating dummy data for testing</td>
+    <td class="tg-baqh">30</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">User interface Design</td>
+    <td class="tg-baqh">25</td>
+    <td class="tg-baqh">$150</td>
+    <td class="tg-baqh">$3,750</td>
+    <td class="tg-baqh">0.74</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Database Design</td>
+    <td class="tg-baqh">100</td>
+    <td class="tg-baqh">$150</td>
+    <td class="tg-baqh">$10,000</td>
+    <td class="tg-baqh">1.96</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Testing</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">$30,000</td>
+    <td class="tg-baqh">5.88</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Travel Cost</td>
+    <td class="tg-baqh">15</td>
+    <td class="tg-baqh">$5,000</td>
+    <td class="tg-baqh">$10,000</td>
+    <td class="tg-baqh">1.96</td>
+  </tr>
+  <tr>
+    <td class="tg-8zwo">Reserves(21% of total estimate)</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">110000</td>
+    <td class="tg-baqh">21.57</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Miscellaneous</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">30000</td>
+    <td class="tg-baqh">5.88</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Total Project Cost Estimate</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">$509,850</td>
+    <td class="tg-baqh"></td>
+  </tr>
+</table>
