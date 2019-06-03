@@ -12,6 +12,7 @@ Chatur Veda Vyas Kurma
 ## **Project Closure Report Version Control**
 
 |          |      |         |  created document |
+|-------|----------|--------|------|
 |         |        |         |   change 2            |
 |         |       |          |   change 3            |
 |         |        |          |  change 4            |
@@ -21,6 +22,7 @@ Chatur Veda Vyas Kurma
 
 
 | Level | WBS Code | Task Name | Resources | Time | Assigned to|
+|-------|----------|-----------|-----------|------|------------|
 
 |       |          |Initiation |           |      |Project Management|
 | 1   | 1  | Project Management|           |8 days|            |
