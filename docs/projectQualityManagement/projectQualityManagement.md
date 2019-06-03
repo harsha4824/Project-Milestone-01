@@ -64,6 +64,44 @@ plan updates, project documents updates, and organizational process asset update
 1.  Are hyperlinks in the results table active and appropriate?
 1.  Do you have any other comments on the databases found in GPM?
 
+<h3>Technical Analysis:</h3>
+
+<p>The quality objective for the technical computations is to produce accurate and expected results.</p>
+
+<p>Most of the Coding will be performed in Visual Stdio code (an Open Source programming
+interface),  JavaScript, Java, NodeJS and MySQL are used in the project. In general, the QA provided by web developers and the user community provide a high level of QA for the GPM. In most cases, computer codes that need to be compiled include documentation with example datasets and results. Once a GPM areas has been programmed, these examples will be run and compared to the documented results. Each GPM functional area will include an example dataset with known results (typically from a textbook or other references). Links will be provided in each case to documentation of functions that are  included in GPM development. These will be made available through the QA interface. </p>
+
+<p>The quality expectations for the technical analysis will be assessed by answering each of the
+following questions:</p>
+
+<p>Do the technical analysis results compare favorably with the known results from the example datasets?</p>
+
+<p>Are assumptions and limitations described in such a way that the end user can make intelligent decisions regarding usage?</p>
+
+<p>Do you have another comments on the technical methods found in GPM?</p>
+
+<h2>User Interface</h2>
+
+<p>The quality objective for the user interface is to provide an intuitive, user-friendly user interface that accurately generates input arguments for analysis functions. </p>
+
+<p>The user interface will largely be based on HTML forms, Javascript, and, potentially, Java. The interface will be designed to intuitively elicit user responses and provide for easy navigation. User responses are collected through user interfaces in the form of HTML parameters and are then translated using Java, Javascript to database search or technical analysis appropriate inputs.</p>
+
+<p>The quality expectations of the user interface will be assessed by answering each of the
+following questions:</p>
+
+1.	Are the module user interface requirements consistent with framework specification requirements?
+
+1.	Does the user interface use standard terminology and definitions throughout?
+
+1.	Do interface requirements define the required responses to potential types of errors and failure modes identified?
+
+1.	Are requirements organized to allow for modifications?
+
+1.	Are there requirements addressing fault tolerances and graceful degradation?
+
+
+
+
 
 
 
