@@ -35,7 +35,7 @@ Chatur Veda Vyas Kurma
 |       |          |Planning   |           |      |            |
 |2 |2 |Project Plan Preparation|           |      |Project Manager|            |
 | |2.1|Resource Availability|           |43.5 days|            |
-| |2.2|Developing Scope Statement|         |3 days|            |
+| |2.2|Developing Scope Statement|         |3 days|  Project Manager         |
 |       |2.3       |Hardware   |           |7.125 days|        |
 |       |2.3.1 |Laptops|                   |0.125 days|        |
 |       |2.3.2 |Database Server|           |7 days|            |
@@ -45,13 +45,13 @@ Chatur Veda Vyas Kurma
 |       |2.4.3|Software Application|       |1 day |            |
 |       |2.4.4|JIRA|                       |1 day |            |
 |       |2.5 |Creating Scope Statement|  |1 day |            | 
-| |2.6|Developing Project Plan |       |5 days|             |
+| |2.6|Developing Project Plan |       |5 days| Project Manager      |
 |       |2.7|Cost Analysis|                |1 day |            |
 |       |2.8|Risk Assessment|              |2 days|            |
 |       |2.9|Technology |                  |10 days|           |
 |       |2.10|Project Management Plan|      |3 days|            |
 |       |2.11|Cost Management Plan|         |2 days|            |
-| |2.12|Submitting Project Plan to Sponsor| |1 day|           |
+| |2.12|Submitting Project Plan to Sponsor| |1 day|Project Manager|
 | |2.13|Approval from Sponsor|            |2 daya|            |
 |       |          |Execution  |           |      |            |
 |3      | 3        |Creating the Application|34 days|Project Team Members|
@@ -89,18 +89,18 @@ Chatur Veda Vyas Kurma
 | |3.22|Getting Back to the Chapter of the course| |1 day|     |
 | |3.23|Log out|                            |1 day|            |
 |       |          |MONITORING AND CONTROL |      |            |
-|4      |4  | Testing|                     |12 days|            |
+|4      |4  | Testing|                     |12 days| Web Developer      |
 | |4.1|Tracking the performance of each user|7 days|           |
 | |4.2|Detecting the issues|               |1 day |            |
 | |4.3|Resolving the issues|               |2 day |            |
 | |4.4|Tracking the Employee Contribution| |1 day |            |
-| |4.5|Formal Acceptance of Project|       |1 day |            |
+| |4.5|Formal Acceptance of Project|       |1 day | Sponsor   |
 |       |          |Close-Out  |           |      |            |
-|5      |5         |Submitting the Project| |4 days|           |
+|5      |5         |Submitting the Project| |4 days| Project Manager   |
 |  |5.1|Finishing the Project ON time|     |1 day |            |
-| |5.2|Submitting Project to the Sponsorer| |1 day|            |
-| |5.3|Getting Project Approval|           |1 day |            |
-| |5.4|Taking the Pay- Checks|             |1 day |            |
+| |5.2|Submitting Project to the Sponsorer| |1 day|   Project Manager         |
+| |5.3|Getting Project Approval|           |1 day |Project Manager            |
+| |5.4|Taking the Pay- Checks|             |1 day |    Project Manager   |
 
 
 
