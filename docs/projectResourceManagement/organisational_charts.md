@@ -21,16 +21,16 @@
 
 |Tasks  |  Venkatasandeep Katrevula    | Sai Kiran Doddapaneni    |  Chatur Veda Vyas Kurma |  Harsha Vardhan Reddy Nallavolu |  
 | ----------|------------|-----------|------------|-----|
-|Managing the project  |  R     |  A  |        Q    |           |       
+|Managing the project  |  R     |  A  |        Q    |       I    |       
 |Planning and Scheduling  |  Q    |  R  |     A       |           | 
 |Stakeholder Analysis |  I    |  C   |  R          |  Q         |
 |Risk Management  |    A  | R   | Q           |           |                
-|Team meetings  |   C   | R   |   A         |           |         
+|Team meetings  |   C   | R   |   I        |       A    |         
 | Procurment |  R    | A   |     Q       |           |  
-|Quality |  I    |  A   |  R          |          |
+|Quality |  I    |  A   |  Q        |     R     |
 |Resource Management |  R   |     |  A          |  Q         |
 |Cost Management |  I  |  A  |          |         |
-|Scope Management |  R  |  A   |           |          |
+|Scope Management |  I |  A   |           |    R      |
 |Schedule Management |  R    |     |           |         |
 
  
