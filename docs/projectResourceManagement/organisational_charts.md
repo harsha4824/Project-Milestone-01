@@ -13,13 +13,15 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |<br>
 &emsp;&emsp;&emsp;&emsp; **Web Developer** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Content Developer** &emsp;&emsp;&emsp;&emsp;&emsp; **UI Developer**
-
+<br>
+<br>
+<br>
 # Responsibility Assignment Matrix
 
 
 |Tasks  |  Venkatasandeep Katrevula    | Sai Kiran Doddapaneni    |  Chatur Veda Vyas Kurma |  Harsha Vardhan Reddy Nallavolu |  
 | ----------|------------|-----------|------------|-----|
-|Managing the project  |  R     |  A  |       A     |      A     |       
+|Managing the project  |  R     |  A  |        Q    |           |       
 |Planning and Scheduling  |  Q    |  R  |     A       |           | 
 |Stakeholder Analysis |  I    |  C   |  R          |  Q         |
 |Risk Management  |    A  | R   | Q           |           |                
