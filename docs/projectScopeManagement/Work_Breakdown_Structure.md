@@ -8,14 +8,6 @@ Main Focus Area is Executing
 Quiz Application
 ### **Prepared By:** 
 Chatur Veda Vyas Kurma
-
-## **Project Closure Report Version Control**
-
-|          |      |         |  created document |
-|-------|----------|--------|------|
-|         |        |         |   change 2            |
-|         |       |          |   change 3            |
-|         |        |          |  change 4            |
  
 ## Work Breakdown Structure :
 
