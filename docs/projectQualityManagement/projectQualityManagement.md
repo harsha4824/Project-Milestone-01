@@ -32,7 +32,7 @@ plan updates, project documents updates, and organizational process asset update
 
 <h3>Review Cycles:</h3>
 
-<p><h4>“A Guide to Project Management”(GPM)</h4>  consists of Video lectures, Quiz application,  Score Board, Forum for discussion, database development and Content development  are embedded in a complex system. This allow each area of GPM to be presented at different levels of detail in a web-based user interface. It is essential that each GPM area receive appropriate review prior to being deployed on the public GPM web site. These reviews will be performed for each of the area (that is, Content Development, database development, Statistical analysis tools, user interface, and integration tools). A standard series of reviews are available for each category, and these can be applied to each GPM area during the review process.</p>
+<p>“A Guide to Project Management”(GPM) consists of Video lectures, Quiz application,  Score Board, Forum for discussion, database development and Content development  are embedded in a complex system. This allow each area of GPM to be presented at different levels of detail in a web-based user interface. It is essential that each GPM area receive appropriate review prior to being deployed on the public GPM web site. These reviews will be performed for each of the area (that is, Content Development, database development, Statistical analysis tools, user interface, and integration tools). A standard series of reviews are available for each category, and these can be applied to each GPM area during the review process.</p>
 
 <h3>Technical Guidance:</h3>
 
@@ -52,7 +52,7 @@ plan updates, project documents updates, and organizational process asset update
 
 1.  Do you have any other comments on the technical guidance found in GPM ?
 
-<h3>Databases</h3>
+<h2>Databases</h2>
 
 <p>The quality objective for the database searches is to produce accurate and expected results. Search results are presented in a form that meets the user’s information needs. Databases for . GPM will be managed by MySQL. Database queries will be performed using MySQL queries Java or Javascript. Quiz question and and videos will be presented in the user's browsers in an HTML table</p>
 
@@ -64,12 +64,11 @@ plan updates, project documents updates, and organizational process asset update
 1.  Are hyperlinks in the results table active and appropriate?
 1.  Do you have any other comments on the databases found in GPM?
 
-<h3>Technical Analysis:</h3>
+<h2>Technical Analysis:</h2>
 
 <p>The quality objective for the technical computations is to produce accurate and expected results.</p>
 
-<p>Most of the Coding will be performed in Visual Stdio code (an Open Source programming
-interface),  JavaScript, Java, NodeJS and MySQL are used in the project. In general, the QA provided by web developers and the user community provide a high level of QA for the GPM. In most cases, computer codes that need to be compiled include documentation with example datasets and results. Once a GPM areas has been programmed, these examples will be run and compared to the documented results. Each GPM functional area will include an example dataset with known results (typically from a textbook or other references). Links will be provided in each case to documentation of functions that are  included in GPM development. These will be made available through the QA interface. </p>
+<p>Most of the Coding will be performed in Visual Stdio code (an Open Source programming interface),  JavaScript, Java, NodeJS and MySQL are used in the project. In general, the QA provided by web developers and the user community provide a high level of QA for the GPM. In most cases, computer codes that need to be compiled include documentation with example datasets and results. Once a GPM areas has been programmed, these examples will be run and compared to the documented results. Each GPM functional area will include an example dataset with known results (typically from a textbook or other references). Links will be provided in each case to documentation of functions that are  included in GPM development. These will be made available through the QA interface. </p>
 
 <p>The quality expectations for the technical analysis will be assessed by answering each of the
 following questions:</p>
