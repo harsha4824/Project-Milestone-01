@@ -15,6 +15,8 @@
 &emsp;&emsp;&emsp;&emsp; **Web Developer** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Content Developer** &emsp;&emsp;&emsp;&emsp;&emsp; **UI Developer**
 
 # Responsibility Assignment Matrix
+
+
 |Tasks  |  Venkatasandeep Katrevula    | Sai Kiran Doddapaneni    |  Chatur Veda Vyas Kurma          |  Harsha Vardhan Reddy Nallavolu       | ----------|----------        |-----------|------------|-----|
 |Managing the project  |  R     |  A  |       A     |      A     |       
 |Planning and Scheduling  |  Q    |  R  |     A       |           | 
