@@ -151,7 +151,7 @@ This project requires project manager, web developer, content, UI developer and 
 ## 1.3	**Management and Technical Approaches**
 
 ### 1.3.1 **Objective:** 
-Deliver the product within the time and of high quality. The Project Manager and Quality Specialist team together monitor the project to achieve this by respectively checking that progress is made as planned and monitoring the quality of the website at various stages
+Deliver the product within the time and of high quality. The Project Manager and Quality Specialist team together monitor the project to achieve this by respectively checking that progress is made as planned and monitoring the quality of the website at various stages.
 
 A group of four members will be working on this project. Additional resources will be hired for certain duration to complete the project. 
 
@@ -193,7 +193,7 @@ Project will be implemented using the Agile process methodology, tools such as V
 ### 1.4.1 **Project Initiation**
  Project Initiation processes, documentation, and deliverables,for example the Project Charter is the main deliverable of Project Initiation and the Kickoff Meeting is the initial Project Team meeting. 
 ### 1.4.2 **Project Planning**
- Project Initiation & Planning processes, documentation, and deliverables, for example the Project Charter is the main deliverable of Project Initiation and the Kickoff Meeting is the initial Project Team meeting
+ Project Initiation & Planning processes, documentation, and deliverables, for example the Project Charter is the main deliverable of Project Initiation and the Kickoff Meeting is the initial Project Team meeting.
 ### 1.4.3 **Project Execution**
  Project Execution processes, documentation, and deliverables,for example the Project Scheduler is the main deliverable of the Project
 Execution. 
